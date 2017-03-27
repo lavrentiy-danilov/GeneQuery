@@ -1,0 +1,1542 @@
+
+1. mRNA profiles from dorsal raphe and amygdala of high-responder and low-responder rats
+(Submitter supplied) We identified 271 transcripts as differentially regulated in the dorsal raphe and/or the amygdala of high-responder and low-responder rats
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 24 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE86nnn/GSE86893/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA343022
+Series		Accession: GSE86893	ID: 200086893
+
+2. Profiles from dorsal raphe and amygdala of high-responder and low-responder rats
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing
+Platform: GPL18694 40 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE86nnn/GSE86936/
+Series		Accession: GSE86936	ID: 200086936
+
+3. Quantitative Analysis of Wild Type and miR-203 KO transcriptomes in the rat endometrial adenocarcinoma cell line RUCA-I
+(Submitter supplied) Purpose: identification of mRNAs that are potential targets of miR-203 in the endometrium and endometrial carcinoma Methods: mRNA profiles of three batches of wild-type (WT) and three independently generated miR-203 knockout (miR-203 KO) RUCA-I cells were produced by deep sequencing, using Illumina HiSeq 2500. The sequence reads that passed quality filters were analyzed at the transcript isoform level with TopHat followed by Cufflinks. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 6 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE95nnn/GSE95850/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA378639
+Series		Accession: GSE95850	ID: 200095850
+
+4. Gene expression profile for male SD Rats with and without traumatic brain injury (TBI) by RNA-Seq (CA1 and WBC)
+(Submitter supplied) To investigate the effects of TBI on affecting the gene expressions in the hippocampus of male SD rats by RNA-Seq
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 16 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE68nnn/GSE68207/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA282032
+Series		Accession: GSE68207	ID: 200068207
+
+5. Gene expression profile for male SD Rats with and without traumatic brain injury (TBI) by RNA-Seq
+(Submitter supplied) To investigate the effects of TBI on affecting the gene expressions in the hippocampus of male SD rats by RNA-Seq..
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 10 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE64nnn/GSE64978/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA272622
+Series		Accession: GSE64978	ID: 200064978
+
+6. Gene expression and DNA methylation profiles for male SD Rats with and without traumatic brain injury
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Methylation profiling by high throughput sequencing
+Platform: GPL18694 18 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE64nnn/GSE64986/
+Series		Accession: GSE64986	ID: 200064986
+
+7. Transcriptome analyses of cerebral ischemia reveal functional lncRNAs in ischemia stroke
+(Submitter supplied) Background and Purpose: Long noncoding RNAs (lncRNAs) are an emerging class of genomic regulatory molecules reported in neurodevelopment and many diseases. Despite extensive studies have identified lncRNAs and discovered their functions in CNS diseases, the function of lncRNAs in ischemia stroke remains poorly understood.  Method: Ischemia was induced by transient middle cerebral artery occlusion. Expression profiles of lncRNAs, miRNAs and mRNAs after ischemia stroke were obtained using high throughput sequencing technology. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 10 Samples
+FTP download: GEO (BED, CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE78nnn/GSE78200/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA312916
+Series		Accession: GSE78200	ID: 200078200
+
+8. Transcriptomics of environmental enrichment and cocaine using quantitative next generation sequencing
+(Submitter supplied) Environmental enrichment produces a protective addiction phenotype in animal models. Gene transcription is thought to mediate this protective phenotype and has a profound influence on neuronal plasticity and psychiatric disorders. Understanding the molecular and genetic mechanisms underlying environmental enrichment may lead to novel targets for pharmacotherapeutics to treat cocaine addiction. We investigated the differential regulation of transcript levels using RNA sequencing of the rat nucleus accumbens after environmental enrichment/isolation and cocaine/saline self-administration. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18469 30 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE88nnn/GSE88736/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA348431
+Series		Accession: GSE88736	ID: 200088736
+
+9. Mechanisms of variable ventilation in experimental lung injury
+(Submitter supplied) In the present study we seek to identify changes in lung gene expression under mechanical ventilation in uninjured as well as acutely and chronically injured lungs. A standard volume-controlled lung-protective ventilatory protocol is compared to a concept of mechanical ventilation using variable tidal volumes.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 28 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE78nnn/GSE78008/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA312344
+Series		Accession: GSE78008	ID: 200078008
+
+10. Cyclin Y-mediated changes in RNA-sequencing based transcriptome profiling in hippocampal neurons
+(Submitter supplied) We report the transcriptome changes mediated by Cyclin Y in rat hippocampal neurons.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL20084 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE84nnn/GSE84850/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA335363
+Series		Accession: GSE84850	ID: 200084850
+
+11. Analysis of Post-TBI Gene Expression Signature Reveals Tubulins, NFE2L2, NFkB, CD44, and S100A4 as Treatment Targets for Traumatic Brain Injury
+(Submitter supplied) TBI was induced with lateral fluid-percussion injury in adult male rats. Genome-wide RNA-seq of the perilesional cortex, ipsilateral thalamus and dorsal hippocampus was performed at 3 months post-TBI. The data highlighted chronic transcriptional changes, particularly, in the perilesional cortex and thalamus. Genes showing a significantly altered expression both in the cortex and thalamus were submitted to the LINCS web query to identify novel pharmacotherapies to improve post-TBI outcome.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL14844 GPL10669 30 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE80nnn/GSE80174/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA318236
+Series		Accession: GSE80174	ID: 200080174
+
+12. Effect of Egg Protein Ovotransferrin-derived Peptide, IRW on Gene Expression of Vascular Tissues in Spontaneously Hypertensive Rats
+(Submitter supplied) In this study we tested the effect of orraly administered egg white ovotransferrin derived pepide, IRW on gene expression in spontaneously hypertensive rats. IRW is previously identified with antihypertensive effect and in this study we evaluated how IRW treatment can modulate various gene expression.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 11 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE65nnn/GSE65017/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA272721
+Series		Accession: GSE65017	ID: 200065017
+
+13. RNA-Seq analysis of glycosylation related gene expression in STZ-induced diabetic rat kidney inner medulla
+(Submitter supplied) The UT-A1 urea transporter is crucial to the kidney’s ability to generate concentrated urine. Native UT-A1 from kidney inner medulla (IM) is a heavily glycosylated protein with two glycosylation forms of 97 and 117 kDa. In diabetes, UT-A1 protein abundance, particularly the 117 kD isoform, is significantly increased corresponding to an increased urea permeability in perfused IM collecting ducts, which plays an important role in preventing the osmotic diuresis caused by glucosuria. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE69nnn/GSE69548/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA285820
+Series		Accession: GSE69548	ID: 200069548
+
+14. Recurrent rearrangements of the Myb/SANT-like DNA-binding domain containing 3 gene (MSANTD3) in salivary gland acinic cell carcinoma
+(Submitter supplied) By transcriptome (RNAseq) analysis of 3 human acinic cell carcimoma (AcCC) cases, we discovered two novel gene fusions, and further validated recurrent rearrangement of the MSANTD3 gene. By RNAseq of engineered MSANTD3 overexpression in rat salivary epithelial cells (compared to vector control), we identifed elevated expression of genes involved in protein synthesis.
+Organism:	Rattus norvegicus; Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL14844 GPL11154 5 Samples
+FTP download: GEO (HTML, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE76nnn/GSE76354/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA307084
+Series		Accession: GSE76354	ID: 200076354
+
+15. Immune Escape via A Transient Gene Expression Program Enables Productive Replication of A Latent Pathogen
+(Submitter supplied) How type I / II interferons (IFNs) prevent periodic re-emergence of latent pathogens in tissues of diverse cell-types remains unknown. Using homogenous neuron cultures latently-infected with herpes simplex virus (HSV), we show that extrinsic type I or II IFN act directly on neurons to induce unique gene expression signatures and inhibit the reactivation-specific burst of viral genome-wide transcription called Phase I. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 9 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE90nnn/GSE90744/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA355653
+Series		Accession: GSE90744	ID: 200090744
+
+16. Viral and Cellular N6-methyladenosine (m6A) Epitranscriptomes in KSHV Life Cycle
+(Submitter supplied) Tan et al. discovered abundant conserved N6-methyladenosine (m6A) modifications on KSHV transcripts during latent and productive infection in different cell types. They also show that m6A readers YTHDF2 and YTHDF3 mediate KSHV replication, and KSHV optimizes both phases of viral replication by reprograming cellular epitranscriptome to regulate distinct signaling pathways.
+Organism:	Rattus norvegicus; Homo sapiens
+Type:		Expression profiling by high throughput sequencing; Other
+Platforms: GPL11154 GPL14844 24 Samples
+FTP download: GEO (FPKM_TRACKING) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE93nnn/GSE93676/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA361517
+Series		Accession: GSE93676	ID: 200093676
+
+17. RNA-Seq analysis of coding and long non-coding RNAs in the sub-chronic and chronic stages of spinal cord injury
+(Submitter supplied) Background: Chronic spinal cord injury (SCI) remains one of the most debilitating neurological disorders and the majority of SCI patients are in the chronic phase. Previous studies of SCI that were limited by resources and technology have usually focused on few genes and pathways at a time. Thus, a comprehensive view of the complex molecular changes underlying SCI pathophysiology is needed. In particular, the biological roles of long non-coding RNAs (lncRNAs), a class of regulatory RNAs, have never been characterized systemically in SCI. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 11 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE93nnn/GSE93249/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA360420
+Series		Accession: GSE93249	ID: 200093249
+
+18. A switch from neuronal network development to maintenance during postnatal development of rat prefrontal cortex
+(Submitter supplied) To unravel the gene expression changes during postnatal prefrontal cortex development,  RNA-seq was performed in the rat medial prefrontal cortex at five time points from early life to adulthood (postnatal day 8, 14, 21, 35 and 70) and differential expression of protein-coding genes, lincRNAs and alternative exons was analyzed. A switch from neuronal network development to maintenance during postnatal rat prefrontal cortex development was shown.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing
+Platform: GPL14844 25 Samples
+FTP download: GEO (BEDGRAPH, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE79nnn/GSE79860/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA317345
+Series		Accession: GSE79860	ID: 200079860
+
+19. HNF4α transduction and 5'azacytidine treatment of rat liver progenitor cells (rLEC) to promote the hepatic phenotype
+(Submitter supplied) Stem/progenitor cells represent an unlimited cell source for the generation of hepatocytes. As such, it was already shown that the hepatic liver progenitor-like cell line rLEC acquires a hepatocyte-like phenotype upon sequential exposure to hepatic growth factors and cytokines. However, expression of hepatocyte nuclear factor (HNF) 4α is still missing, hampering their full differentiation. Therefore, we aim at studying the phenotype of rLEC by transducing the cells with HNF4α. more...
+Organism:	Rattus norvegicus; synthetic construct
+Type:		Expression profiling by high throughput sequencing; Non-coding RNA profiling by array
+Platforms: GPL22388 GPL21572 24 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE89nnn/GSE89250/
+Series		Accession: GSE89250	ID: 200089250
+
+20. mRNA state  in normal and irradiated skin of  rattus
+(Submitter supplied) We report the difference of mRNA and Long-non-coding  RNA state between normal and irradiated skin of rattus
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL11282 6 Samples
+FTP download: GEO (FPKM_TRACKING) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE86nnn/GSE86252/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA341361
+Series		Accession: GSE86252	ID: 200086252
+
+21. Comparative transcriptomic and epigenomic analyses reveal new regulators of murine brown adipogenesis
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Homo sapiens; Rattus norvegicus; Mus musculus
+Type:		Expression profiling by high throughput sequencing; Non-coding RNA profiling by array; Genome binding/occupancy profiling by high throughput sequencing
+4 related Platforms 72 Samples
+FTP download: GEO (TXT, WIG) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE75nnn/GSE75698/
+Series		Accession: GSE75698	ID: 200075698
+
+22. Short Read Sequencing Data of the Transcriptome of the Rheumatoid Arthritis Rat Model Treated with Acupuncture or Placebo [tissue 1]
+(Submitter supplied) We report the application of Illumina HiSeq 2000 sequencing technology for high-throughput profiling of the transcriptome of the rheumatoid arthritis rat model induced by collegen with acupuncture and placebo treatments, at time points before, 1 hour and 34 days after.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 10 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE57nnn/GSE57983/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA248651
+Series		Accession: GSE57983	ID: 200057983
+
+23. Short Read Sequencing Data of the Transcriptome of the Rheumatoid Arthritis and Treated with Acupuncture or not
+(Submitter supplied) We report the application of Illumina Hiseq2000 sequencing technology for high-throughput profiling of the transcriptome of the rheumatoid arthritis (RA) rat model induced by collagen type II (CIA) and treated with acupuncture or not.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE58nnn/GSE58978/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA254036
+Series		Accession: GSE58978	ID: 200058978
+
+24. Toxicogenomic Characterization of Molecular Mechanisms Contributing to Chlorpyrifos Neurotoxicity in Adult Male Rats
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by array; Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing
+Platforms: GPL1355 GPL17116 95 Samples
+FTP download: GEO (CEL, CHP, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE74nnn/GSE74728/
+Series		Accession: GSE74728	ID: 200074728
+
+25. Toxicogenomic Characterization of Molecular Mechanisms Contributing to Chlorpyrifos Neurotoxicity in Adult Male Rats [RNA-seq]
+(Submitter supplied) Chlorpyrifos (CPF) is an organophosphorus pesticide (OP), and one of the most widely used pesticides in the world. Metabolites of CPF and other OPs continue to be identified in the majority of human samples, even in countries such as the United States where OP use is declining (Arcury et al., 2010). The effects of repeated occupational and environmental exposures to OPs are poorly understood, although human and animal studies consistently identify neurotoxicity as the primary endpoint of concern. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL17116 13 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE74nnn/GSE74726/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA301356
+Series		Accession: GSE74726	ID: 200074726
+
+26. Natural Selection has Shaped Coding and Non-coding Transcription in Primate CD4+ T-cells
+(Submitter supplied) Transcriptional regulatory changes have been shown to contribute to phenotypic differences between species, but many questions remain about how gene expression evolves.  Here we report the first comparative study of nascent transcription in primates.  We used PRO-seq to map actively transcribing RNA polymerases in resting and activated CD4+ T-cells in multiple human, chimpanzee, and rhesus macaque individuals, with rodents as outgroups. more...
+Organism:	Macaca mulatta; Homo sapiens; Pan troglodytes; Rattus norvegicus; Mus musculus
+Type:		Expression profiling by high throughput sequencing
+6 related Platforms 20 Samples
+FTP download: GEO (BW) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE85nnn/GSE85337/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA338193
+Series		Accession: GSE85337	ID: 200085337
+
+27. The lncRNA genomic landscape of oligodendrocytes reveals myelination control by a lncOL1/Suz12 complex in the CNS
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Rattus norvegicus; Mus musculus
+Type:		Genome binding/occupancy profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing; Expression profiling by high throughput sequencing
+Platforms: GPL14844 GPL13112 11 Samples
+FTP download: GEO (BED, FPKM_TRACKING, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE82nnn/GSE82211/
+Series		Accession: GSE82211	ID: 200082211
+
+28. Transcriptome profiles of cirrhotic liver treated with lysophosphatidic acid pathway inhibitors
+(Submitter supplied) Cirrhosis is a milieu that develops hepatocellular carcinoma (HCC), the second most lethal cancer worldwide. HCC prediction and prevention in cirrhosis are key unmet medical needs. Here we have established an HCC risk gene signature applicable to all major HCC etiologies: hepatitis B/C, alcohol, and non-alcoholic steatohepatitis. A transcriptome meta-analysis of >500 human cirrhotics revealed global regulatory gene modules driving HCC risk and lysophosphatidic acid pathway as a central chemoprevention target. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 8 Samples
+FTP download: GEO (GCT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE72nnn/GSE72960/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA295963
+Series		Accession: GSE72960	ID: 200072960
+
+29. Molecular liver cancer prevention in cirrhosis by organ transcriptome analysis and lysophosphatidic acid pathway inhibition
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Rattus norvegicus; Homo sapiens; Mus musculus
+Type:		Expression profiling by array; Expression profiling by high throughput sequencing
+4 related Platforms 298 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE64nnn/GSE64520/
+Series		Accession: GSE64520	ID: 200064520
+
+30. Neonatal Transplantation Confers Maturation of PSC-Derived Cardiomyocytes Conducive to Modeling Cardiomyopathy
+(Submitter supplied) Pluripotent stem cell-derived cardiomyocytes (PSC-CMs) were transplanted into rats for one month to determine the change in morphology, structure, and function. Single cell RNA seq analysis was performed to compared the transcriptome of in vivo matured PSC-CMs to adult rat cardiomyocytes and in vitro cultured PSC-CMs.
+Organism:	Rattus norvegicus; Mus musculus
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL19057 GPL20084 24 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE92nnn/GSE92247/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA357025
+Series		Accession: GSE92247	ID: 200092247
+
+31. Methylation of H3K9 by G9a/GLP protects against pathological cardiac hypertrophy
+(Submitter supplied) The heart adapts to increased workload through hypertrophic growth of cardiomyocytes.  Although beneficial when induced physiologically by exercise, pathological cues including hypertension cause reexpression of fetal genes and dysfunctional hypertrophy, with lasting consequences for cardiac health. We hypothesised that these differences are driven by changes in chromatin-encoded cellular memory. We generated genome-wide maps of transcription and of two stable epigenetic marks, H3K9me2 and H3K27me3, specifically in hypertrophied cardiomyocytes, by selectively flow-sorting their nuclei. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing
+Platform: GPL18469 59 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE66nnn/GSE66653/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA277628
+Series		Accession: GSE66653	ID: 200066653
+
+32. Impact of melatonin on gene expression in colonic epithelium of pinealectomized rats
+(Submitter supplied) To examine the effect of melatonin on global gene expression in the colonic epithelium, we used RNA-seq analysis to identify differentially expressed genes (DEGs) in samples from three melatonin-treated (MEL4-6) versus three vehicle-treated pinealectomized rats (VEH1-3) injected i.p. at the beginning of subjective night and sacrificed 4 h later. More than 12 050 expressed genes were identified in each sample out of 18 258 genes in the database. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL22396 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE90nnn/GSE90837/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA356122
+Series		Accession: GSE90837	ID: 200090837
+
+33. Cardiac Transcriptome Dynamics and MEF2 Function in Response to Chronic β-Adrenergic Blockade During Heart Failure
+(Submitter supplied) 1) Profiling RNA expression in mice with surgically induced pressure overload (Transverase aortic contriction aka TAC) and/or Atenolol (AT) treated mice. 2)Profiling RNA expression in MEF2A depleted cardiomyocytes.
+Organism:	Mus musculus; Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL14844 GPL13112 16 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE75nnn/GSE75213/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA302806
+Series		Accession: GSE75213	ID: 200075213
+
+34. Genome wide transcriptome analysis (RNA-seq) of adult hippocampal neural stem cells in vitro a.k.a. HCN cells in quiescent and proliferative conditions in non-electroporated or electroporated with control empty vector or REST knock-down shRNA vector
+(Submitter supplied) We report the high-throughput transcriptome profiling of induced quiescent (iQNP) and proliferative (TAP) conditions in mammalian adult hippocampal stem cells in culture (HCN cells). By obtaining 145 to 78 million pair-end reads of sequence from isolated RNA from HCN cells in iQNP and TAP conditions. Thereafter, we intersected this gene expression data with REST bound ChIP-seq peaks within +/-10kb of transcription start site of genes also from HCN cells in iQNP and TAP conditions. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 12 Samples
+FTP download: GEO (XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE70nnn/GSE70696/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA289392
+Series		Accession: GSE70696	ID: 200070696
+
+35. REST regulation of gene networks in adult neural stem cells
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Rattus norvegicus
+Type:		Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by high throughput sequencing
+Platform: GPL18694 18 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE70nnn/GSE70698/
+Series		Accession: GSE70698	ID: 200070698
+
+36. Distinct Combinatorial Events Generated by ECM Degradation Dictate Cell Behavior
+(Submitter supplied) It is well established that the expression profiles of multiple and possibly redundant matrix remodeling proteases (e.g. collagenases) strongly differ in health, disease and development. Although enzymatic redundancy might be inferred from their close similarity in structure, their in-vivo activity can lead to extremely diverse tissue-remodeling outcomes. We observed that proteolysis of collagen-rich natural extracellular matrix (ECM), generated uniquely by individual homologous proteases, leads to specific combinatorial events, which eventually affects overall ECM topography, visco-elastic properties and composition. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL20084 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE79nnn/GSE79749/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA316930
+Series		Accession: GSE79749	ID: 200079749
+
+37. TonEBP/NFAT5 regulates inflammatory gene expression in nucleus pulposus cells
+(Submitter supplied) RNA sequencing of nucleus pulposus cells transduced with control or TonEBP shRNA and cultured under hypertonic conditions
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 8 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE86nnn/GSE86552/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA342179
+Series		Accession: GSE86552	ID: 200086552
+
+38. Activity-dependent transcriptional changes in human neurons
+(Submitter supplied) We used genome-wide sequencing methods to identify activity-regulated gene expression and regulatory elements in human neurons.  Sensory stimuli drive the maturation and function of the mammalian nervous system in part through the activation of gene expression networks that regulate synapse development and plasticity.  These programs of gene transcription have primarily been studied in mice, and it is not known if there are neuronal activity-regulated genes that control features of brain development and function that are unique to humans. more...
+Organism:	Homo sapiens; Mus musculus; Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing
+4 related Platforms 43 Samples
+FTP download: GEO (BW) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE78nnn/GSE78688/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA313218
+Series		Accession: GSE78688	ID: 200078688
+
+39. Transcriptomic profiling of cardiac remodeling in high phosphate exposed cardiomyoblasts
+(Submitter supplied) Cardiovascular disease (CVD) in chronic kidney disease (CKD) is characterized by vascular calcification and cardiac remodeling. CKD induced cardiac hypertrophy precedes cardiac fibrosis and is associated with left ventricular dysfunction. Elevated phosphate concentration due to renal failure is known to be involved in cardiac remodeling.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 2 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE89nnn/GSE89130/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA350334
+Series		Accession: GSE89130	ID: 200089130
+
+40. Quant Seq analysis of primary stretched rat alveolar type I-like epithelial (AEC-I) cells
+(Submitter supplied) Rat AEC-I cell monolayers were generated from primary isolated type-II pneumoncytes by plating them on fibronectin-coated silastic membranes. After 4 days of culturing, type-II pneumocytes trasform into AEC-I cells and form monolayers
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 20 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE89nnn/GSE89024/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA349816
+Series		Accession: GSE89024	ID: 200089024
+
+41. Direct conversion of rodent fibroblasts into myelinating induced Schwann cells
+(Submitter supplied) Transcriptome analysis of rodent fibroblast-derived induced Schwann cells
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 9 Samples
+FTP download: GEO (WIG) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE78nnn/GSE78712/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA313296
+Series		Accession: GSE78712	ID: 200078712
+
+42. Signal-Dependent Recruitment of BRD4 to Cardiomyocyte Super-Enhancers is Suppressed by a MicroRNA
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing
+Platform: GPL14844 16 Samples
+FTP download: GEO (WIG) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE83nnn/GSE83230/
+Series		Accession: GSE83230	ID: 200083230
+
+43. Signal-Dependent Recruitment of BRD4 to Cardiomyocyte Super-Enhancers is Suppressed by a MicroRNA [RNA-Seq]
+(Submitter supplied) BRD4 governs pathological cardiac gene expression by binding acetylated chromatin, resulting in enhanced RNA polymerase II (Pol II) phosphorylation and transcription elongation. Here, we describe a signal-dependent mechanism for regulation of BRD4 in cardiomyocytes. BRD4 expression is suppressed by microRNA-9 (miR-9), which targets the 3’ untranslated region of the Brd4 transcript. In response to stress stimuli, miR-9 is downregulated, leading to derepression of BRD4 and enrichment of BRD4 at long-range super-enhancers (SEs) associated with pathological cardiac genes. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 8 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE83nnn/GSE83228/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA325308
+Series		Accession: GSE83228	ID: 200083228
+
+44. Initiation of mtDNA transcription is followed by pausing, and diverge across human cell types and during evolution
+(Submitter supplied) We analyzed nascent mtDNA-encoded RNA transcripts from GRO-seq and PRO-seq experiments in a collection of diverse human cell lines and Metazoan organisms. Accurate detection of human mtDNA transcription initiation sites (TIS) in the heavy and light strands revealed a novel transcription pausing site near the light strand TIS, upstream to the transcription-replication transition region, in conserved sequence block III (CSBIII). more...
+Organism:	Caenorhabditis elegans; Drosophila melanogaster; Pan troglodytes; Rattus norvegicus; Macaca mulatta; Homo sapiens; Mus musculus
+Type:		Expression profiling by high throughput sequencing; Third-party reanalysis
+FTP download: GEO (BEDGRAPH, XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE85nnn/GSE85747/
+Series		Accession: GSE85747	ID: 200085747
+
+45. RNA-Seq analysis of the cystic fibrosis rat small intestine
+(Submitter supplied) Background: A recently developed animal model of the genetic disease is the cystic fibrosis (CF) rat, which similar to other animal models of CF exhibits a lethal intestinal phenotype. To begin characterizing the CF rat intestinal phenotype, we investigated global gene expression in the CF rat small intestine. Methods: Total RNA was extracted from full thickness of the entire small intestines of wild type (WT) and CF rats just before weaning. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 8 Samples
+FTP download: GEO (DIFF, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE81nnn/GSE81114/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA320555
+Series		Accession: GSE81114	ID: 200081114
+
+46. RNA-Seq of tissues from Rat eye and retina samples
+(Submitter supplied) We report RNA-Seq experiments of eye and retinal tissues from Rattus Norvegicus
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL10669 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE84nnn/GSE84932/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA335660
+Series		Accession: GSE84932	ID: 200084932
+
+47. Etiology matters - Comparing Genomic DNA Methylation Patterns in Three Rat Models of Acquired Epilepsy
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Methylation profiling by high throughput sequencing
+Platform: GPL10669 20 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE75nnn/GSE75403/
+Series		Accession: GSE75403	ID: 200075403
+
+48. Etiology matters - Comparing Genomic DNA Methylation Patterns in Three Rat Models of Acquired Epilepsy (Amygdala stimulation – mRNA-seq)
+(Submitter supplied) Explore DNA methylation in focal amygdala stimulation model of epilepsy and its relationship to gene expression.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL10669 10 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE75nnn/GSE75402/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA304117
+Series		Accession: GSE75402	ID: 200075402
+
+49. Integrative genomics outlines a biphasic glucose response and a ChREBP-RORγ axis regulating proliferation in β-cells
+(Submitter supplied) Glucose is an important regulator of pancreatic β-cell function. In addition to the acute stimulation of insulin secretion, glucose stimulates long-term adaptive changes in gene expression that can either promote or antagonize the proliferative potential and function of β-cells. The glucose-sensing transcription factor carbohydrate response element binding protein (ChREBP) has been shown to promote both β-cell proliferation and dysfunction; however, the molecular mechanisms underlying these pleiotropic effects of ChREBP and glucose are not well understood. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing
+Platform: GPL18404 54 Samples
+FTP download: GEO (BEDGRAPH, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE81nnn/GSE81628/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA322158
+Series		Accession: GSE81628	ID: 200081628
+
+50. Etiology matters - Comparing Genomic DNA Methylation Patterns in Three Rat Models of Acquired Epilepsy
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Methylation profiling by high throughput sequencing
+Platform: GPL10669 20 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE75nnn/GSE75121/
+Series		Accession: GSE75121	ID: 200075121
+
+51. Etiology matters - Comparing Genomic DNA Methylation Patterns in Three Rat Models of Acquired Epilepsy (TBI – mRNA-seq)
+(Submitter supplied) Explore DNA methylation in traumatic brain injury model of epilepsy and its relationship to gene expression.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL10669 10 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE75nnn/GSE75120/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA302540
+Series		Accession: GSE75120	ID: 200075120
+
+52. Transcriptome Profiling of Rattus norvegicus Embryonic Stem Cells by RNA-Sequencing
+(Submitter supplied) In order to establish a rat embryonic stem cell transcriptome, mRNA from rESC cell line DAc8, the first male germline competent rat ESC line to be described and the first to be used to generate a knockout rat model was characterized using RNA sequencing (RNA-seq) analysis. 
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 2 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE44nnn/GSE44150/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA188784
+Series		Accession: GSE44150	ID: 200044150
+
+53. Effect of high fat diet on the rat germ cell transcriptome
+(Submitter supplied) PURPOSE: To examine if a parental high fat diet (HFD) influences metabolic health in two generations of offspring, and alters the germ cell (GC) transcriptome. PROCEDURE: GC-eGFP Sprague Dawley rats were weaned onto HFD (45% fat) or Control Diet (CD; 10% fat). After metabolic testing, founders (F0) were bred with controls, establishing the F1 generation. Germ cells from F0 males were isolated and their RNA sequenced. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing
+Platform: GPL18694 16 Samples
+FTP download: GEO (TSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE80nnn/GSE80721/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA319800
+Series		Accession: GSE80721	ID: 200080721
+
+54. Adrenalectomy plus corticosterone treatment, rat hippocampal RNA-seq
+(Submitter supplied) Male Sprague-Dawley rats 8 weeks old, were adrenalectomized, treated with 300ug/kg corticosterone or vehicle 3 days after surgery then sacrificed 1 hour later. Hippocampi were removed and RNA extracted and processed for sequencing at the Massachusetts General Hospital Nex-Generation Sequening Core.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 12 Samples
+FTP download: GEO (BED, TAB) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE84nnn/GSE84249/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA328468
+Series		Accession: GSE84249	ID: 200084249
+
+55. Loss of MeCP2 in the rat models regression, impaired sociability and transcriptional deficits of Rett syndrome
+(Submitter supplied) The goal of this study was to characterize a novel Mecp2 allele in the laboratory rat, a distinct rodent species from the laboratory mouse with unique features. The allele was created by zinc finger-nuclease (ZFN) targeting (SAGE/Horizon) of the X-linked gene, Methyl-CpG-Binding Protein 2 (Mecp2), resulting in normal Mecp2 RNA abundance, but absent protein in male rats as expected due to the presence of only one copy of mutant Mecp2, and an approximate 50% reduction in female rats as expected from animals that harbor one wild-type copy and one mutant copy of Mecp2. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE83nnn/GSE83323/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA325596
+Series		Accession: GSE83323	ID: 200083323
+
+56. Histone H3K4 trimethylation in rat peripheral nerve
+(Submitter supplied) ChIP-seq of H3K4me3 in rat peripheral nerve was used to identify transcription start sites associated with Schwann cell-expressed genes. The analysis was performed in injured and control nerve to identify injury-responsive changes in Schwann cells. 
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 4 Samples
+FTP download: GEO (BEDGRAPH, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE84nnn/GSE84272/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA328498
+Series		Accession: GSE84272	ID: 200084272
+
+57. Comparative transcriptomics of endometrial stromal fibroblasts
+(Submitter supplied) We sequenced mRNA of endometrial stromal fibroblasts from six mammalian species.
+Organism:	Neovison vison; Oryctolagus cuniculus; Rattus norvegicus; Monodelphis domestica; Homo sapiens; Bos taurus
+Type:		Expression profiling by high throughput sequencing
+6 related Platforms 12 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE67nnn/GSE67659/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA280591
+Series		Accession: GSE67659	ID: 200067659
+
+58. End Sequence Analysis ToolKit (ESAT) expands the extractable information from single cell RNA-Seq data
+(Submitter supplied) Test data used for the evaluation of ESAT performance and results files for data from 3' and 5' end-sequencing RNA-Seq protocols and droplet-based single-cell RNA-Seq.
+Organism:	Mus musculus; Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL14844 GPL15103 14 Samples
+FTP download: GEO (TXT, XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE79nnn/GSE79651/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA316604
+Series		Accession: GSE79651	ID: 200079651
+
+59. Determination of the RNA linked to the paraspeckle in the GH4C1 cell line
+(Submitter supplied) The goal of this study was to determine the identity of the RNA linked to the paraspeckles in the rat GH4C1 cell line.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL20084 2 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE81nnn/GSE81972/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA323540
+Series		Accession: GSE81972	ID: 200081972
+
+60. Gene expression and methylation profile for male SD Rats upon fructose and DHA treatment
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Methylation profiling by high throughput sequencing
+Platforms: GPL14844 GPL18694 16 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE64nnn/GSE64817/
+Series		Accession: GSE64817	ID: 200064817
+
+61. Gene expression profile for male SD Rats upon fructose and DHA treatment by RNA-Seq
+(Submitter supplied) To investigate the beneficial effects of DHA (omega-3) on affecting fructose induced brain dysfunction and metabolic disorders by sequencing the transcripome (RNA-Seq) in the hypothalamus and hippocampus of male SD rats.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE64nnn/GSE64815/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA271944
+Series		Accession: GSE64815	ID: 200064815
+
+62. Gene expression profile for male SD Rats upon fructose treatment by RNA-Seq
+(Submitter supplied) Gene expression profile for male SD Rats upon fructose treatment by RNA-Seq
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 16 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE59nnn/GSE59918/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA257066
+Series		Accession: GSE59918	ID: 200059918
+
+63. Epigenetics and energetics in ventral hippocampus mediate rapid antidepressant action: implications for treatment-resistance
+(Submitter supplied) Although regulation of energy metabolism has been linked with multiple disorders, its role in depression and responsiveness to antidepressants is less-known. We found that an epigenetic and energetic agent, acetyl-L-carnitine (LAC, oral administration), rapidly rescued the depressive- and central and systemic metabolic-like phenotype of LAC-deficient Flinders Sensitive Line (FSL) rats. After acute stress during LAC treatment, a subset of FSL continued to respond to LAC (rFSL), whereas the other subset did not respond (nrFSL). more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE83nnn/GSE83336/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA325629
+Series		Accession: GSE83336	ID: 200083336
+
+64. Histone methylation by the Kleefstra Syndrome protein EHMT1 mediates homeostatic synaptic scaling.
+(Submitter supplied) Homeostatic plasticity, a form of synaptic plasticity, maintains the fine balance between overall excitation and inhibition in developing and mature neuronal networks. Although the synaptic mechanisms of homeostatic plasticity are well characterized, the associated transcriptional program remains poorly understood. We show that the Kleefstra syndrome-associated protein, EHMT1, plays a critical and cell-autonomous role in synaptic scaling by responding to attenuated neuronal firing or sensory drive. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 12 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE68nnn/GSE68960/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA284165
+Series		Accession: GSE68960	ID: 200068960
+
+65. LncRNA Chaer contributes to the transcriptome reprogramming during phenylephrine-induced hypertrophy in neonatal rat ventricular myocytes
+(Submitter supplied) We compared the transcriptome modified by siRNA-mediated cardiac hypertrophy associated epigenentic regulator (Chaer) with negative control siRNA treated neonatal rat ventricular myocytes with or without phenylephrine treatment. The results suggest that Chaer knockdown broadly blocks the phenylephrine-induced hypertrophic programming of the transcriptome.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE82nnn/GSE82339/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA324677
+Series		Accession: GSE82339	ID: 200082339
+
+66. Genome-wide analysis of rats' mRNA profile after knocking down PIWIL1 in embryonic cultured neurons.
+(Submitter supplied) We have demonstrated that PIWIL1 can regulate neuronal radial migration during corticogenesis. In order to explore the mechanism, we carried out high-throughtput sequencing (mRNA profile) to define downstream target of PIWIL during the process of neuronal migration. And we found the expression level of several microtubule-associated proteins decreased after downregulation of PIWIL1. Therefore, PIWIL1 plays an important role in neuronal migration by regulating the expression microtubule-associated proteins (such as Map1B, Map2, Tau) .
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 2 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE48nnn/GSE48236/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA209323
+Series		Accession: GSE48236	ID: 200048236
+
+67. Extra-coding RNAs regulate neuronal DNA methylation dynamics
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Methylation profiling by high throughput sequencing
+Platform: GPL14844 15 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE64nnn/GSE64988/
+Series		Accession: GSE64988	ID: 200064988
+
+68. Extra-coding RNAs regulate neuronal DNA methylation and long-term memory formation [RNA-seq]
+(Submitter supplied) This dataset contains whole-genome RNA sequencing results from cortical neuronal cultures and serves as the basis for characterization of extra-coding RNA species from neuronal systems.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 12 Samples
+FTP download: GEO (XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE64nnn/GSE64902/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA272446
+Series		Accession: GSE64902	ID: 200064902
+
+69. Transcription profile of aging and cognitive-related genes in the medial prefrontal cortex and hippocampal region CA1
+(Submitter supplied) This study focused on transcription in the medial PFC (mPFC) as a function of age and cognition. Young and aged F344 rats were characterized on tasks, attentional set shift and spatial memory, which depend on the mPFC and hippocampus, respectively. Differences in transcription associated with age and cognitive function were examined using RNA sequencing to construct transcriptomic profiles for the mPFC, white matter, and region CA1 of the hippocampus. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL19482 79 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE75nnn/GSE75772/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA305306
+Series		Accession: GSE75772	ID: 200075772
+
+70. Gene expression changes in the retina following human neural progenitor cell injection into a rodent model for retinal degeneration
+(Submitter supplied) The goal of this study is to compare gene expression changes in retinal degenerate Royal College of Surgeons (RCS) rats following an injection of human neural progenitor cells (hNPCs) using RNA-seq, as compared to RCS rats receiving a sham surgery and wild-type Long Evans rats. These changes may lead to understanding of the therapeutic potential of hNPCs in inducing photoreceptor survival and visual function preservation.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL20670 6 Samples
+FTP download: GEO (TXT, XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE70nnn/GSE70600/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA289237
+Series		Accession: GSE70600	ID: 200070600
+
+71. Comparison of age-related changes in gene expression of 2 rat skeletal muscles
+(Submitter supplied) In this study we compared Gastrocnemius and Triceps gene expression with age. Our results show that gene expression is massively modulated with age in Gastroc but on the contrary very stable in Triceps, suggesting that Triceps is resistant to age-related defects.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 58 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE78nnn/GSE78702/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA313263
+Series		Accession: GSE78702	ID: 200078702
+
+72. SpermBase - A database for sperm-borne RNA contents
+(Submitter supplied) Purpose: Sperm-borne RNA are particularly sensitive to degradation and methodology-induced bias, thus necessitating the use of a consistent, effective RNA extraction protocol for inter-species comparisons. To this end, we established SpermBase, an RNA expression database consisting of small and large RNA expression data obtained using consistent methodologies. Methods: Total RNA was extracted from total sperm and sperm head samples using an RNA extraction protocol that required only slight, species-specific alterations at the lysis stage. more...
+Organism:	Oryctolagus cuniculus; Rattus norvegicus; Homo sapiens; Mus musculus
+Type:		Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing
+6 related Platforms 32 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE81nnn/GSE81216/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA320896
+Series		Accession: GSE81216	ID: 200081216
+
+73. Progesterone responsive uterine transcriptome in rat
+(Submitter supplied) We have previously shown that Brown Norway (BN) rats are progesterone resistant. Thus this experiment was designed to compare the transcriptomes in uterus that are altered by progesterone challenge between this strain of rat with Holtzman Sprague Dawley (HSD) rats
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 12 Samples
+FTP download: GEO (XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE68nnn/GSE68542/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA283039
+Series		Accession: GSE68542	ID: 200068542
+
+74. Effect of Cited2 knockdown on global transcript expression in Rcho-1 cell differentiation
+(Submitter supplied) We had previously discovered that the transcription factor Cited2 was highly induced during trophoblast differentiation. In this study, we used an lentiviral shRNA strategy to decrease Cited2 expression in Rcho-1 trophoblast cells. A RNA-seq approach was used to determine global transcript differences inRcho-1 knockdown cells compared to control cells.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 6 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE74nnn/GSE74748/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA301403
+Series		Accession: GSE74748	ID: 200074748
+
+75. Temporal comparison of transcriptomic alterations in human, mouse and rat primary B lymphocytes exposed to 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD)
+(Submitter supplied) RNA-Seq was used to analyze and compare temporal TCDD-induced gene expression changes in primary human, mouse and rat B cells. Most of the differentially expressed genes exibited species-specific expression. Cross-species comparison identified 28 orthologs commonly deregulated in all 3 species.  The study provides new insight into mechanisms of TCDD-induced suppression of B cell effector function.
+Organism:	Homo sapiens; Mus musculus; Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL16791 GPL17021 GPL18694 30 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE80nnn/GSE80953/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA320107
+Series		Accession: GSE80953	ID: 200080953
+
+76. Genome-wide profiling of gene expression under electro-acupuncture treatment on MI heart in rats
+(Submitter supplied) Purpose: Acupuncture exerts cardioprotective effects on several types of cardiac injuries, especially myocardial ischemia (MI). In order to  elucidate the potential mechanisms,  RNA-seq by next generation sequencing was used to identify the rat genome-wide alterations after MI and EA treatment  in this study Methods: Adult male Sprague Dawley rats (250-300g)  were divided into three groups: Control, MI and electro-acupuncture (EA) groups, myocardium mRNA profiles of  rats in each group were generated by deep sequencing,using Illumina Hiseq 2000. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 8 Samples
+FTP download: GEO (FPKM_TRACKING) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE54nnn/GSE54132/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA235265
+Series		Accession: GSE54132	ID: 200054132
+
+77. Genome-wide profiling of gene expression under electro-acupuncture pretreatment on myocardial I/R injury in rats
+(Submitter supplied) Purpose:Acupuncture exerts cardioprotective effect on myocardial I/R injury. In order to  elucidate the potential mechanisms,  RNA-seq by next generation sequencing was used to identify the rat genome-wide alterations by EA at Neiguan acupoint pretreatment  in this study Methods: Adult male Sprague Dawley rats (250-300g)  were divided into four groups: Sham operation(SO), I/R, electro-acupuncture at Neiguan pretreatment (EA) and electro-acupuncture at non-acupoint (NA) groups and myocardium mRNA profiles of  rats in each group were generated by deep sequencing,using Illumina Hiseq 2000. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 8 Samples
+FTP download: GEO (FPKM_TRACKING) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE61nnn/GSE61840/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA262523
+Series		Accession: GSE61840	ID: 200061840
+
+78. Effect of tail domain and kinase domain mutations in BMPR2 on gene expression in rat Hc92 cells studied by RNA-Seq
+(Submitter supplied) We sequenced RNA from rat Hc92 cells transformed with empty vector, tail domain BMPR2 and kinase domain BMPR2 knockout vectors
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE78nnn/GSE78525/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA313211
+Series		Accession: GSE78525	ID: 200078525
+
+79. Chromatin Remodeler CHD7 mutated in CHARGE Syndrome Interacts with Sox10 to Regulate Timing of CNS Myelination and Remyelination.
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Rattus norvegicus; Mus musculus
+Type:		Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by high throughput sequencing
+Platforms: GPL13112 GPL14844 6 Samples
+FTP download: GEO (BED, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE72nnn/GSE72727/
+Series		Accession: GSE72727	ID: 200072727
+
+80. Hdac3 Interaction with p300 Histone Acetyltransferase Regulates the Oligodendrocyte and Astrocyte Lineage Fate Switch
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Mus musculus; Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing
+Platforms: GPL16312 GPL13112 6 Samples
+FTP download: GEO (BED, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE76nnn/GSE76412/
+Series		Accession: GSE76412	ID: 200076412
+
+81. Genome-wide occupancy of Tcf7l2/Tcf4 in rat and expression profiling of Tcf7l2 mutant and control mice
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Rattus norvegicus; Mus musculus
+Type:		Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing
+Platforms: GPL13112 GPL14844 5 Samples
+FTP download: GEO (TXT, WIG) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE65nnn/GSE65120/
+Series		Accession: GSE65120	ID: 200065120
+
+82. Gene expression profiles of MBP-specific T cells during experimental autoimmune encephalomyelitis
+(Submitter supplied) 2nd generation sequencing was used to compare expression profiles of MBP-specific T cells retrieved from blood, CSF, spinal cord meninges and parenchyma. The overall expression profiles were found to be very similar.However, genes regulated during T cell activation were found to be upregulated in T cells from spinal cord meninges and parenchyma compared to blood and CSF.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE75nnn/GSE75488/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA304413
+Series		Accession: GSE75488	ID: 200075488
+
+83. Gene expression data of allodiploid embryonic stem cells.
+(Submitter supplied) RNA-Seq was used to assess the gene expression profiles of 4 allodiploid embryonic stem cell lines and 4 control embryonic stem cell lines. Moreover, single-cell RNA-Seq was used to quantify the transcriptomes of 87 allodiploid single cells.
+Organism:	Rattus norvegicus; Mus musculus
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL21143 GPL13112 GPL14844 95 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE74nnn/GSE74533/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA300663
+Series		Accession: GSE74533	ID: 200074533
+
+84. Genomic and transcriptomic study of allodiploid embryonic stem cells
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Mus musculus; Rattus norvegicus
+Type:		Genome variation profiling by array; Expression profiling by high throughput sequencing
+Platforms: GPL21089 GPL17131 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE74nnn/GSE74543/
+Series		Accession: GSE74543	ID: 200074543
+
+85. Long-term consequences of chronic fluoxetine exposure on the expression of myelination-related genes in the rat hippocampus
+(Submitter supplied) To more concretely elucidate the long-term effects of chronic SSRI exposure during adulthood,  the long-term consequences of chronic fluoxetine (12 mg/kg) versus vehicle treatment during adulthood (postnatal day (PND) 67-88) on gene expression in the hippocampus were investigated. The study showed that adult chronic fluoxetine exposure causes on the long-term changes in the expression of genes related to, amongst others, myelination
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL10669 4 Samples
+FTP download: GEO (TSV, WIG) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE67nnn/GSE67203/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA279259
+Series		Accession: GSE67203	ID: 200067203
+
+86. Genomic binding and regulation of gene expression by the thyroid carcinoma-associated PAX8-PPARG fusion protein
+(Submitter supplied) A chromosomal translocation results in production of an oncogenic PAX8-PPARG fusion protein (PPFP) in a subset of thyroid carcinomas. PAX8 is an important thyroid transcription factor, and PPARG is a transcription factor that plays important roles in the biology of adipocytes and macrophages, but has no known function in the thyroid. PPFP retains the DNA binding domains of both proteins. However, the genomic DNA binding sites of PPFP have not been identified, and only limited data exist to characterize gene expression in PPFP thyroid carcinomas. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing
+Platform: GPL14844 14 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE70nnn/GSE70354/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA288400
+Series		Accession: GSE70354	ID: 200070354
+
+87. Transcriptome analysis of aflatoxin B1 (AFB1) induced hepatocellular carcinoma (HCC) and AFB1 resistant liver sample from rats
+(Submitter supplied) Applied de novo assembly, both protein coding and non-coding RNAs were profiled in AFB1 induced HCC and AFB1 resistant liver sample. Compared with normal liver, the perturbation on transcriptome was revealed in multiple aspects, implying the potential mechanism of toxic resistance.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 3 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE70nnn/GSE70097/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA287636
+Series		Accession: GSE70097	ID: 200070097
+
+88. Hepatitis B virus-mediated alterations to the primary hepatocyte transcriptome
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL18694 GPL20084 35 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE68nnn/GSE68113/
+Series		Accession: GSE68113	ID: 200068113
+
+89. Hepatitis B virus-mediated alterations to the primary hepatocyte transcriptome [Full Set]
+(Submitter supplied) Purpose:  Chronic infection with hepatitis B virus is the leading global risk factor for the development of liver cancer.  A large body of research has shown the many effects an HBV infection has on cellular physiology, particularly on pathways that may be involved in the development of HBV-associated diseases.  Unfortunately, a significant portion of this research has been done in systems that may not mimic what is seen in a primary hepatocyte, and is not done on a transcriptome-wide scale. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL20084 23 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE68nnn/GSE68112/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA282086
+Series		Accession: GSE68112	ID: 200068112
+
+90. Hepatitis B virus-mediated alterations to the primary hepatocyte transcriptome [24 and 48 h]
+(Submitter supplied) Purpose:  Chronic infection with hepatitis B virus is the leading global risk factor for the development of liver cancer.  A large body of research has shown the many effects an HBV infection has on cellular physiology, particularly on pathways that may be involved in the development of HBV-associated diseases.  Unfortunately, a significant portion of this research has been done in systems that may not mimic what is seen in a primary hepatocyte, and is not done on a transcriptome-wide scale. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE66nnn/GSE66566/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA277349
+Series		Accession: GSE66566	ID: 200066566
+
+91. Evolutionary analysis across mammals reveals distinct classes of long noncoding RNAs
+(Submitter supplied) Recent advances in transcriptome sequencing have enabled the discovery of thousands of long non-coding RNAs (lncRNAs) across many species. Though several lncRNAs have been shown to play important roles in diverse biological processes, the functions and mechanisms of most lncRNAs remain unknown. Two significant obstacles lie between transcriptome sequencing and functional characterization of lncRNAs: identifying truly non-coding genes from de novo reconstructed transcriptomes, and prioritizing the hundreds of resulting putative lncRNAs for downstream experimental interrogation. more...
+Organism:	Homo sapiens; Mus musculus castaneus; Rattus norvegicus; Mus musculus
+Type:		Expression profiling by high throughput sequencing
+4 related Platforms 9 Samples
+FTP download: GEO (TXT, WIG) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE64nnn/GSE64818/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA271946
+Series		Accession: GSE64818	ID: 200064818
+
+92. Changes in transcript expression in circulating whole blood resulting from exposure to neurotoxic doses of D-amphetamine or Heat Stroke/Hyperthermia
+(Submitter supplied) These experiments were designed to detect transcript (mRNA) changes in whole circulating blood in animals exposed to D-amphetamine under neurotoxic and non-neurotoxic conditions, or subjected to elevated environmental temperatures that produced a hyperthermia very similar to heat stroke.  The study objectives were: 1) to detect transcript changes in blood due to life-threatening hyperthermia produced by elevated environmental temperatures (39°C, produces no or minimal neurotoxicity); 2) detect transcripts that could serve as biomarkers specific for neurotoxic amphetamine exposures and not seen with environmentally-induced hyperthermia; and 3) determine the transcript changes related to the immune system in circulating blood produced by either non-neurotoxic or neurotoxic amphetamine exposures. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 64 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE64nnn/GSE64778/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA271851
+Series		Accession: GSE64778	ID: 200064778
+
+93. Transcript expression in circulating whole blood after saline injections
+(Submitter supplied) These experiments were designed to produce the appropriate controls so that their cohort's transcript (mRNA) changes in whole circulating blood could be determined.  The cohorts were exposed to D-amphetamine under a neurotoxic and non-neurotoxic condition or subjected to elevated environmental temperatures that produced a hyperthermia very similar to heat stroke.  The cohort data is in a separate, but linked, GEO file.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 16 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE62nnn/GSE62368/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA264000
+Series		Accession: GSE62368	ID: 200062368
+
+94. In utero exposure of rats to high-fat diets perturbs gene-expression profiles and cancer susceptibility of prepubertal mammary glands
+(Submitter supplied) Human studies suggest that high-fat diets (HFD) increase the risk of breast cancer. The 7,12 dimethylbenz[a]anthracene (DMBA)-induced mammary carcinogenesis rat model is commonly used to evaluate the effects of lifestyle factors such as HFD on mammary-tumor risk. Past studies focused primarily on the effects of continuous maternal exposure on the risk of offspring at the end of puberty (PND50). We assessed the effects of prenatal HFD exposure on cancer susceptibility in prepubertal mammary glands and identified key gene networks associated with such disruption. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18469 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE73nnn/GSE73604/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA297423
+Series		Accession: GSE73604	ID: 200073604
+
+95. Transcriptome analysis in calorie-restricted rats implicates epigenetic and post-translational mechanisms in neuroprotection and aging 
+(Submitter supplied) Using RNA-seq, 39 cerebral cortex RNA samples were sequenced. The study design was as follows:  Ad libitum fed rats at 6 months (n=3, 6 individuals pooled), 12 months (n=3, 6 individuals pooled) and 28 months (n=3, 6 individuals pooled). Calorie restricted rats at  6 months (n=3, 6 individuals pooled), 12 months (n=3, 6 individuals pooled) and 28 months (n=3, 6 individuals pooled). Rats fed alpha lipoic acid as a supplement to ad libitum at 12 months (n=3, 6 individuals pooled) and 28 months (n=3, 6 individuals pooled). more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL16312 39 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE57nnn/GSE57110/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA245445
+Series		Accession: GSE57110	ID: 200057110
+
+96. Different exercise modalities have distinct effects on the transcriptome profile in the male rat femoral diaphysis
+(Submitter supplied) Mechanical loading is a key determinant of bone mass, geometry and strength and is essential to maintain optimal skeletal health. We hypothesized that spontaneous low-impact exercise would affect global gene transcript levels in cortical bone of growing rats. We used RNA-Seq to analyse the transcriptome of the femoral mid-diaphysis in pre-pubertal male rats that were assigned to one of three exercise groups for 15 days: control (CON); bipedal stance (BPS); and wheel exercise (WEX). more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 14 Samples
+FTP download: GEO (DIFF) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE67nnn/GSE67787/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA280937
+Series		Accession: GSE67787	ID: 200067787
+
+97. G9a is essential for epigenetic silencing of K+ channel genes in acute-to-chronic pain transition
+(Submitter supplied) AIM: We performed RNA-sequencing experiments seeking genes whose expression changed due to nerve injury. In addition, we wanted to test whether inhibition of the methyl transferase G9a/GLP, that methylates H3K9me2, could reverse those expression changes due to nerve ligation. G9a/GLP methylase was pharmacologically inhibited using UNC0638. METHOD: We generated cDNA libraries from RNA purified from DRGs obtained from Sham operated (4), SNL (4), and SNL plus UNC0638 (3) rats. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 11 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE59nnn/GSE59043/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA254183
+Series		Accession: GSE59043	ID: 200059043
+
+98. The evolution of genic piRNA cluster loci expression patterns
+(Submitter supplied) This study examines the conservation of Piwi-interacting RNA (piRNA) clusters that come from protein coding gene transcripts.  By sequencing small RNA libraries from gonad tissues of Drosophilids and Glires we discover a diverse set of genic piRNA clusters conserved across animals. This dataset reveals new expression patterns for genic piRNA clusters and examines whether changing piRNA expression patterns correlates with sequence changes in piRNA cluster genomic sequence across a variety of animal species.
+Organism:	Drosophila erecta; Drosophila virilis; Mus musculus; Drosophila yakuba; Oryctolagus cuniculus; Drosophila melanogaster; Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing
+7 related Platforms 25 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE62nnn/GSE62556/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA264407
+Series		Accession: GSE62556	ID: 200062556
+
+99. T Cell Deficiency in Spinal Cord Injury: Altered Locomotor Recovery and Whole-Genome Transcriptional Analysis
+(Submitter supplied) T cells undergo autoimmunization following spinal cord injury (SCI) and play both protective and destructive roles during the recovery process. T-cell deficient athymic nude (AN) rats recover better than immunocompetent Sprague-Dawley (SD) rats following spinal cord transection. In the present study, we evaluated locomotor recovery in SD and AN rats following moderate spinal cord contusion. To explain variable locomotor outcome, we assessed whole-genome expression using RNA sequencing, in the acute (1 week post-injury) and chronic (8 weeks post-injury) phases of recovery. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE62nnn/GSE62760/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA265064
+Series		Accession: GSE62760	ID: 200062760
+
+100. The influence of the estrous cycle on sex differences in the rat adult medial prefrontal cortex transcriptome
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing
+Platforms: GPL20084 GPL18694 20 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE69nnn/GSE69773/
+Series		Accession: GSE69773	ID: 200069773
+
+101. The influence of the estrous cycle on sex differences in the rat adult medial prefrontal cortex transcriptome [RNA-Seq]
+(Submitter supplied) Hormonal fluctuations throughout the ovarian cycle contribute to females’ higher vulnerability to anxiety disorders when compared to males. Notably, such sex differences are controlled by regulation of genes in the medial prefrontal cortex (mPFC) including the transcription factor early growth response 1 (Egr1) in rats, which highlights a control of anxiety-like behaviors by sexually-biased gene expression. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL20084 11 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE69nnn/GSE69765/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA286729
+Series		Accession: GSE69765	ID: 200069765
+
+102. Human beta cell proliferation induced by inhibition of Dyrk1a and GSK3b
+(Submitter supplied) Purpose: Single-cell whole transcriptome sequencing was used to better understand the mechanism of action of our Dyrk1a inhibitor's proliferation of pancreatic islets. Methods: primary pancreatic islets were isolated, cultured, and stimulated with either 0.1% DMSO or 3 µM GNF4877.  Single cells were captured and cDNA isolated on a Fluidigm C1 instrument.  Sequencing libraries were made with Nextera XT reagents (Illumina) and single-end 50 bp reads were generated on an Illumina HiSeq 1000. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18469 170 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE68nnn/GSE68625/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA283222
+Series		Accession: GSE68625	ID: 200068625
+
+103. MBNL1-mediated Regulation of Differentiation RNAs Promotes Myofibroblast Transformation and the Fibrotic Response
+(Submitter supplied) The differentiation of fibroblasts into myofibroblasts mediates tissue wound healing and fibrotic remodeling. To better understand this process we performed a genome-wide screen in fibroblasts, which identified the RNA-binding protein muscleblind-like 1 (MBNL1) as a potent regulator of myofibroblast differentiation. MBNL1 promoted transformation of fibroblasts into myofibroblasts, while loss of Mbnl1 abrogated myofibroblast differentiation and impaired the fibrotic phase of wound healing in mouse models of myocardial infarction and dermal injury. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Other
+Platform: GPL18694 10 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE74nnn/GSE74185/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA299279
+Series		Accession: GSE74185	ID: 200074185
+
+104. Sequencing analysis of sciatic nerves during myelination
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Mus musculus; Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing
+Platforms: GPL13112 GPL14844 27 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE64nnn/GSE64562/
+Series		Accession: GSE64562	ID: 200064562
+
+105. RNA-Seq analysis facilitates quantitative analysis to identify genes in hepatic tissue of partially hepatectomized rats regulated by ASCs-miR27b introduction in comparison with ASCs-siRNC or saline controls
+(Submitter supplied) Methods: The cDNA libraries from 3 pooled samples of liver tissues for each group were sequenced to generate RNA profiles using Illumina Miseq platform Results: The sequencing runs yielded a total of 22.67 M reads with an average length of 100 bp. The high-throughput sequencing performed for liver samples with different treatments showed similar numbers of yielded reads ranged from 5.57 to 5.74 M and the same average length. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL19052 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE69nnn/GSE69783/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA286772
+Series		Accession: GSE69783	ID: 200069783
+
+106. A transcriptomic study of maternal thyroid adaptation to pregnancy in rats
+(Submitter supplied) To identify potential regulators of late pregnancy-dependent thyroid weight increase, thyroid gene expression profiles of non-pregnant (NP) and late pregnant (LP, day 18) rats was analyzed using the RNA-seq approach.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE73nnn/GSE73307/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA296572
+Series		Accession: GSE73307	ID: 200073307
+
+107. Integrated Transcriptome and Proteome Analyses Reveal Organ-Specific Proteome Deterioration in Old Rats
+(Submitter supplied) Aging is associated with the decline of protein, cell, and organ function. Here, we use an integrated approach to characterize gene expression, bulk translation, and cell biology in the brains and livers of young and old rats. We identify 468 differences in protein abundance between young and old animals. The majority are a consequence of altered translation output, that is, the combined effect of changes in transcript abundance and translation efficiency. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Other
+Platform: GPL14844 24 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE66nnn/GSE66715/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA277771
+Series		Accession: GSE66715	ID: 200066715
+
+108. Effects of eye opening on gene expression in the superficial layers of the rat superior colliculus
+(Submitter supplied) We performed RNA-seq on six samples of P20 Sprague Dawley rat superior colliculus, three control rats that underwent eye opening at P14 until P20 and three deprived rats which had their eyes glued closed from P14 until P20. Each sample was created from two pooled colliculi.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL10287 6 Samples
+FTP download: GEO (TSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE72nnn/GSE72787/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA295072
+Series		Accession: GSE72787	ID: 200072787
+
+109. Cross-species transcriptomic comparison of in vitro and in vivo mammalian neural cells
+(Submitter supplied) We report the first RNA profiing of mammalian neural cells grown in vitro. About 50 million reads are generated by RNA-seq from rat astrocytes, neurons and oligodendrocyte precursor cells in primary culture. These data are compared with theose generated from the correponding mouse neural cells that are acutely purified from brains. Cross-species RNA-seq data analysis revealed hundreds of genes that are differentially expressed between cultured and acutely purified cells. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE72nnn/GSE72739/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA294796
+Series		Accession: GSE72739	ID: 200072739
+
+110. RNA-Seq of the rat pineal transcriptome, with in-vivo and in-vitro samples, under various treatment and surgical conditions
+(Submitter supplied) Pineal function follows a 24-hour schedule, dedicated to the conversion of night and day into a hormonal signal, melatonin. In mammals, 24-hour changes in pineal activity are controlled by a neural pathway that includes the central circadian oscillator in the suprachiasmatic nucleus and the superior cervical ganglia (SCG), which innervate the pineal gland. In this study, we have generated the first next-generation RNA sequencing evidence of neural control of the daily changes in the pineal transcriptome. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 36 Samples
+FTP download: GEO (TXT, XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE63nnn/GSE63309/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA267246
+Series		Accession: GSE63309	ID: 200063309
+
+111. Epigenomics of neural cells: REST-induced down- and up-regulation of gene expression in a two clone PC12 cell model.
+(Submitter supplied) Cell epigenomics depends on the marks released by transcription factors operating via the assembly of complexes that induce focal changes of DNA and histone structure. Among these factors is REST, a repressor that, via its strong decrease, governs both neuronal and neural cell differentiation and specificity. REST operation on thousands of possible genes can occur directly or via indirect mechanisms including repression of other factors. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE59nnn/GSE59946/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA257108
+Series		Accession: GSE59946	ID: 200059946
+
+112. Evidence from mRNA-Sequencing that Acute Olanzapine Infusion is Initiating a Skeletal Muscle Fiber Type Transition In Rat Gastrocnemius
+(Submitter supplied) The purpose of this study was to examined the acute actions of the second generation antipsychotic (SGA), olanzapine, on skeletal muscle (gastrocnemius) of Sprague Dawley Rats.  SGAs cause metabolic side effects including leading to metabolic inflexibility, hyperglycemia, adiposity and diabetes. These effects are preceded by glucose intolerance and increased FFA flux and metabolism in peripheral tissues. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 6 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE65nnn/GSE65787/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA275016
+Series		Accession: GSE65787	ID: 200065787
+
+113. Changes of axonal transcriptomes in response to local Abeta
+(Submitter supplied) We report that local application of Abeta(1-42) for 24h triggers changes in the localized transcriptome, while the transcriptome in cell bodies remains largely unchanged.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL19052 8 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE70nnn/GSE70860/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA289704
+Series		Accession: GSE70860	ID: 200070860
+
+114. Unique gene program of rat mesenteric arteries as revealed by Deep RNA Sequencing
+(Submitter supplied) This study used Deep RNA sequencing to define gene expression in the small resistance arteries and compare to a reference conduit artery, the aorta Methods: Deep RNA Sequencing (~90 million reads) was performed on 2 samples of adult SD rat mesenteric arteries and compared to that of 2 samples of aorta. Results: ~900 genes were identified that were expressed at least 2-fold difference between meseteric artery and aorta
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE64nnn/GSE64450/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA271028
+Series		Accession: GSE64450	ID: 200064450
+
+115. The novel functional effects of exogenous EBV-miR-BARTs on NPC progression
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Human gammaherpesvirus 8; Macaca mulatta polyomavirus 1; Rattus norvegicus; Macacine gammaherpesvirus 4; Homo sapiens; Mus musculus
+Type:		Expression profiling by high throughput sequencing; Non-coding RNA profiling by array
+Platforms: GPL11154 GPL16414 44 Samples
+FTP download: GEO (GPR, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE42nnn/GSE42945/
+Series		Accession: GSE42945	ID: 200042945
+
+116. The transcription factors SOX9 and SOX5/SOX6 cooperate genome-wide through super-enhancers to drive chondrogenesis
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing
+Platform: GPL18694 16 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE70nnn/GSE70144/
+Series		Accession: GSE70144	ID: 200070144
+
+117. The transcription factors SOX9 and SOX5/SOX6 cooperate genome-wide through super-enhancers to drive chondrogenesis (RNA-Seq)
+(Submitter supplied) SOX9 is a transcriptional activator required for chondrogenesis, and SOX5 and SOX6 are closely related DNA-binding proteins that critically enhance its function. We used RNA-seq to charatierize a rat chondrosarcoma (RCS) cells as a faithful model for proliferating/early prehypertrophic growth plate chondrocytes and ChIP-seq to gain novel insights into the full spectrum of the target genes and modes of action of this chondrogenic trio.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE70nnn/GSE70142/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA287714
+Series		Accession: GSE70142	ID: 200070142
+
+118. Transcriptomic analysis of the estrogenic effect of soy protein isolate in rat uterus
+(Submitter supplied) There are concerns regarding possible reproductive toxicity from consumption of soy including an increased risk of endometriosis and endometrial cancer. We used global uterine gene expression profiles in adult ovariectomized (OVX) female rats assessed by RNAseq to examine the estrogenicity of soy protein isolate (SPI) and the potential for feeding SPI to alter estrogen signaling in the uterus. Rats were fed AIN93G diets made with casein (CAS) or SPI from postnatal day (PND) 30. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL10669 12 Samples
+FTP download: GEO (GTF) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE69nnn/GSE69819/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA286867
+Series		Accession: GSE69819	ID: 200069819
+
+119. Deep sequencing reveals cell-type specific patterns of single cell transcriptome variation
+(Submitter supplied) We present high quality deep read-depth single cell RNA sequencing for 91 cells from five mouse tissues and 18 cells from two rat tissues, along with 30 control samples of bulk RNA diluted to single-cell levels. We find that transcriptomes differ globally across tissues with regard to the number of genes expressed, the average expression patterns, and within cell-type variation patterns. We develop methods to filter genes for reliable quantification and to calibrate biological variation. more...
+Organism:	Mus musculus; Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL17021 GPL14844 GPL13112 137 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE56nnn/GSE56638/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA244374
+Series		Accession: GSE56638	ID: 200056638
+
+120. Time resolved ribosome profiling study of oxygen and glucose deprivation of rat pheochromocytoma cells
+(Submitter supplied) Oxygen and glucose metabolism plays a pivotal role in many (patho)physiological conditions. In particular, oxygen and glucose deprivation (OGD) occurs during ischemia and stroke, resulting in extensive tissue injury and cell death. We applied time-resolved ribosome profiling technique to assess early events at the level of gene expression in rat pheochromocytoma PC12 cells during short-term OGD. Most substantial alterations in transcripts levels and their translation were seen to occur in the first 20 minutes of OGD. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 16 Samples
+FTP download: GEO (CSV, XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE60nnn/GSE60752/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA259424
+Series		Accession: GSE60752	ID: 200060752
+
+121. RNA-seq profiling of microdissected rat renal tubule segments
+(Submitter supplied) We sequenced mRNAs from glomeruli and 14 different rat renal tubule segments collected by hand microdissection.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 125 Samples
+FTP download: GEO (BEDGRAPH, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE56nnn/GSE56743/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA244440
+Series		Accession: GSE56743	ID: 200056743
+
+122. DNMT inhibition in the Neonatal Preoptic Area
+(Submitter supplied) PN2 male and female rat pups were treated with vehicle or zebularine.  POA RNA was extracted and sequenced to deterime the effects of DNMT inhibition in POA gene expression.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE66nnn/GSE66203/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA276102
+Series		Accession: GSE66203	ID: 200066203
+
+123. Peri-adolescent high-fructose diet effects on hypothalamic transcriptome
+(Submitter supplied) Fructose consumption has increased by over 25% since 1970, and excess consumption has deleterious metabolic effects. Additionally, fructose can alter hypothalamic pituitary adrenal axis function, potentially resulting in increased vulnerability to mood disorders. Adolescents are the greatest consumers of fructose and also at a critical period of development.  Here, we examine the effects of consumption of a 55% fructose diet from weaning until adulthood on the hypothalamic transcriptome.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18469 13 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE56nnn/GSE56238/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA242679
+Series		Accession: GSE56238	ID: 200056238
+
+124. Rat pineal gland RNA-Seq PolyA project
+(Submitter supplied) The rat pineal gland is a highly dynamic tissue with many hundreds of genes changing more than two-fold in a 24-hr daily rhythm as measured by Affymetrix GeneChip analysis. We sought to more completely understand this dynamic transcriptome using RNA-Seq in order to capture information regarding alternative splicing, novel exons, unannotated mRNAs, non-coding RNAs, etc. We also wished to identify transcripts that were selectively expressed in the pineal glands relative to other tissues. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL10287 3 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE45nnn/GSE45654/
+Series		Accession: GSE45654	ID: 200045654
+
+125. Neural circular RNAs are derived from synaptic genes and regulated by development and plasticity
+(Submitter supplied) Circular RNAs (circRNAs), formed by the atypical head-to-tail splicing of exons, have re-emerged as a potentially interesting RNA species given recent reports of a surprising diversity and abundance of circRNA in organisms ranging from worm to human. Here, using deep RNA sequencing, we profiled different RNA species in mouse and observed that circRNAs are significantly enriched in neural tissue, relative to other tissues. more...
+Organism:	Rattus norvegicus; Mus musculus
+Type:		Expression profiling by high throughput sequencing
+4 related Platforms 35 Samples
+FTP download: GEO (BED, FA, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE61nnn/GSE61991/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA262902
+Series		Accession: GSE61991	ID: 200061991
+
+126. Feedback Inhibition of CREB Signaling Promotes Beta Cell Dysfunction in Insulin Resistance.
+(Submitter supplied) Although persistent elevations in circulating glucose concentrations promote compensatory increases in pancreatic islet mass, unremitting insulin resistance causes a deterioration in beta cell function that disrupts glucose balance and signals the progression to diabetes 1. Glucagon like Peptide 1 (GLP1) agonists improve glucose tolerance in insulin resistance, although some individuals are unresponsive to treatment. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL19052 8 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE60nnn/GSE60158/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA257642
+Series		Accession: GSE60158	ID: 200060158
+
+127. Gene Expression Defines Natural Changes in Mammalian Lifespan
+(Submitter supplied) Mammals differ more than hundred fold in maximum lifespan, which can be altered in either direction during evolution, but the molecular basis for natural changes in longevity is not understood. Divergent evolution of mammals also led to extensive changes in gene expression within and between lineages. To understand the relationship between lifespan and variation in gene expression, we carried out RNA-seq-based gene expression analyses of liver, kidney and brain of 33 diverse species of mammals. more...
+Organism:	Tadarida brasiliensis; Ursus americanus; Meles meles; Equus caballus; Mesocricetus auratus; Meriones unguiculatus; Erinaceus europaeus; Suncus murinus; Canis lupus familiaris; Peromyscus leucopus; Acomys cahirinus; Cavia porcellus; Tamias sibiricus; Chlorocebus aethiops; Felis catus; Bos taurus; Capra hircus; Oryctolagus cuniculus; Rattus norvegicus; Sus scrofa; Mus musculus; Petaurus breviceps; Murina leucogaster
+Type:		Expression profiling by high throughput sequencing
+23 related Platforms 141 Samples
+FTP download: GEO (GTF, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE43nnn/GSE43013/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA184055
+Series		Accession: GSE43013	ID: 200043013
+
+128. Macrophage epoxygenase determines a pro-fibrotic transcriptomesignature
+(Submitter supplied) Epoxygenases belong to the cytochrome P450 family and they generate epoxyeicosatrienoic acids (EETs) known to have anti-inflammatory effects but little is known about their role in macrophage function. By high-throughput sequencing of RNA (RNA-seq) in primary macrophages derived fromrodents and humans, we establish the relative expression of epoxygenases in these cells. Zinc-finger nuclease-mediated targeted gene deletion of the major ratmacrophage epoxygenaseCyp2j4 (orthologue of human CYP2J2),resulted inreduced EET synthesis. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE65nnn/GSE65715/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA274942
+Series		Accession: GSE65715	ID: 200065715
+
+129. Next-generation sequencing facilitates quantitative analysis of hepatic sex-differences in ZSF1 rats
+(Submitter supplied) The aim of this study was to identify sex-specific hepatic genes in Zucker spontaneously hypertensive fatty rats (ZSF1), a rat model for diabetic nephropathy.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE57nnn/GSE57598/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA246761
+Series		Accession: GSE57598	ID: 200057598
+
+130. Genome-wide identification of rat long non-coding RNAs
+(Submitter supplied) In the current study, we have focused on a distinct group of non-coding elements, lncRNA, and profiled renal tissues from three different inbred rat strains. We chose the three strains S, SHR and R for the main purpose of cataloging lncRNA annotations from  the most widely used rat models of cardiovascular and renal disease.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL11282 3 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE58nnn/GSE58701/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA253201
+Series		Accession: GSE58701	ID: 200058701
+
+131. Chromatin occupancy and target genes of TCF7L2 in hepatocytes
+(Submitter supplied) TCF7L2 regulates multiple metabolic pathways in hepatocytes through a transcriptional network involving HNF4α
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing
+Platform: GPL14844 44 Samples
+FTP download: GEO (DIFF, GTF) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE53nnn/GSE53862/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA233591
+Series		Accession: GSE53862	ID: 200053862
+
+132. In vivo activation of a conserved microRNA program induces robust mammalian heart regeneration (RNA-Seq)
+(Submitter supplied) Heart failure is a leading cause of mortality and morbidity in the developed world, partly because mammals lack the ability to regenerate heart tissue. Whether this is due to evolutionary loss of regenerative mechanisms present in other organisms or to an inability to activate such mechanisms is currently unclear. Here, we decipher mechanisms underlying heart regeneration in adult zebrafish and show that the molecular regulators of this response are conserved in mammals. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18694 2 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE62nnn/GSE62387/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA263997
+Series		Accession: GSE62387	ID: 200062387
+
+133. In vivo activation of a conserved microRNA program induces robust mammalian heart regeneration
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	synthetic construct; Danio rerio; Rattus norvegicus
+Type:		Non-coding RNA profiling by array; Expression profiling by high throughput sequencing
+Platforms: GPL14613 GPL18694 7 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE62nnn/GSE62389/
+Series		Accession: GSE62389	ID: 200062389
+
+134. Systems biology with high-throughput sequencing revealed genetic mechanisms underlying the Metabolic Syndrome in the Lyon Hypertensive Rat
+(Submitter supplied) The metabolic syndrome (MetS) is a collection of co-occurring complex disorders including obesity, hypertension, dyslipidemia, and insulin resistance. The Lyon Hypertensive (LH) and Lyon Normotensive (LN) rats are models of MetS sensitivity and resistance, respectively. To identify genetic determinants and mechanisms underlying MetS, 169 rats from an F2 intercross between LH and LN were studied. Multi-dimensional data were obtained including genotypes of 1536 SNPs, 23 physiological traits including blood pressure, plasma lipid and leptin levels, and body weight/adiposity, and more than 150 billion nucleotides of RNA-seq reads from the livers of 36 F2 individuals, 6 LH and 6 LN individuals. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 48 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE50nnn/GSE50027/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA215848
+Series		Accession: GSE50027	ID: 200050027
+
+135. Whole transcriptome profiling of the rat pineal gland during development from embryonic day 21 to adult
+(Submitter supplied) The transcriptome of the rat pineal gland is highly dynamic, with many hundreds of genes changing more than two-fold on a 24-hr daily rhythm, as revealed earlier using Affymetrix GeneChip analysis. Several key transcription factors and enzymes are known to change dramatically during development of the pineal gland. Studies on a small number of genes indicate that the onset of rhythmic expression generally occurs later in development. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE46nnn/GSE46127/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA197305
+Series		Accession: GSE46127	ID: 200046127
+
+136. Nova1 is a master regulator of alternative splicing in pancreatic beta cells
+(Submitter supplied) Alternative splicing (AS) is a fundamental mechanism for the regulation of gene expression. It affects more than 90% of human genes but its role in the regulation of pancreatic beta cells, the producers of insulin, remains unknown. Our recently published data indicated that the “neuron specific” Nova1 splicing factor is expressed in pancreatic beta cells. We have presently coupled specific knockdown (KD) of Nova1 with RNA-sequencing to determine all splice variants and downstream pathways regulated by this protein in beta cells. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 6 Samples
+FTP download: GEO (GTF) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE59nnn/GSE59633/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA255786
+Series		Accession: GSE59633	ID: 200059633
+
+137. Global MEF2 target gene analysis in cardiac and skeletal muscle reveals novel regulation of DUSP6 by p38MAPKMEF2 signaling
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Mus musculus; Rattus norvegicus
+Type:		Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by high throughput sequencing
+Platforms: GPL13112 GPL14844 8 Samples
+FTP download: GEO (BED, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE61nnn/GSE61207/
+Series		Accession: GSE61207	ID: 200061207
+
+138. MicroRNA and mRNA expression analyses of postnatal and adult rat pancreatic islets
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Rattus norvegicus
+Type:		Non-coding RNA profiling by array; Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing; Other
+Platforms: GPL14844 GPL14860 40 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE61nnn/GSE61182/
+Series		Accession: GSE61182	ID: 200061182
+
+139. Islet-specific microRNA changes driven by nutrient shift trigger postnatal beta-cell maturation - dispersed islet cell mRNAs after miR-17-5p transfection
+(Submitter supplied) We found that in rodents, postnatal beta-cell maturation is associated with changes in the expression of several islet microRNAs and discovered that these modifications are driven by changes in the nutrient supply. Mimicking the microRNA changes observed during β-cell maturation in newborn rat islet cells was sufficient to promote glucose-induced insulin release and to achieve a mature β-cell secretory phenotype. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Other
+Platform: GPL14844 15 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE61nnn/GSE61181/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA260414
+Series		Accession: GSE61181	ID: 200061181
+
+140. Islet-specific microRNA changes driven by nutrient shift trigger postnatal beta-cell maturation - intact islet mRNAs
+(Submitter supplied) We found that in rodents, postnatal beta-cell maturation is associated with changes in the expression of several islet microRNAs and discovered that these modifications are driven by changes in the nutrient supply. Mimicking the microRNA changes observed during β-cell maturation in newborn rat islet cells was sufficient to promote glucose-induced insulin release and to achieve a mature β-cell secretory phenotype. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE61nnn/GSE61179/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA260413
+Series		Accession: GSE61179	ID: 200061179
+
+141. SEQC Toxicogenomics Study: RNA-Seq data set
+(Submitter supplied) The comparative advantages of RNA-Seq and microarrays in transcriptome profiling were evaluated in the context of a comprehensive study design. Gene expression data from Illumina RNA-Seq and Affymetrix microarrays were obtained from livers of rats exposed to 27 agents that comprised of seven modes of action (MOAs); they were split into training and test sets and verified with real time PCR.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL17116 GPL14844 116 Samples
+FTP download: GEO (PDF, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE55nnn/GSE55347/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA239561
+Series		Accession: GSE55347	ID: 200055347
+
+142. SEQC Project
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Rattus norvegicus; synthetic construct; Homo sapiens
+Type:		Expression profiling by array; Expression profiling by high throughput sequencing
+15 related Platforms 4521 Samples
+FTP download: GEO (CEL, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE47nnn/GSE47792/
+Series		Accession: GSE47792	ID: 200047792
+
+143. Hypoxia transcriptome sequencing of blind mole rat (BMR, Spalax galili) and rat (Rattus norvegicus)
+(Submitter supplied) Deep sequencing of mRNA from Spalax galili and Rattus norvegicus
+Organism:	Nannospalax galili; Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL17526 GPL14844 12 Samples
+FTP download: GEO (BEDGRAPH) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE49nnn/GSE49485/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA214192
+Series		Accession: GSE49485	ID: 200049485
+
+144. High-Resolution Profiling of Novel Transcribed Regions During Rat Spermatogenesis
+(Submitter supplied) Mammalian spermatogenesis is a complex and highly orchestrated combination of processes in which male germline proliferation and differentiation result in the production of mature spermatozoa. If recent genome-wide studies have contributed to the in-depth analysis of the male germline protein-coding transcriptome, little effort has yet been devoted to the systematic identification of novel unannotated transcribed regions expressed during mammalian spermatogenesis. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL10287 8 Samples
+FTP download: GEO (BED, GTF, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE48nnn/GSE48321/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA209702
+Series		Accession: GSE48321	ID: 200048321
+
+145. mRNA-seq analysis of superficial zone (SFZ) and deeper layers (deep AC) of articular cartilage of adult rats
+(Submitter supplied) We compared gene expression profiles of SFZ and deep AC of articular cartilage through laser microdissection (LMD) using adhesive tape, linear amplification of mRNA, and mRNA-seq analysis.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 4 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE57nnn/GSE57377/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA246364
+Series		Accession: GSE57377	ID: 200057377
+
+146. Origins and functional evolution of Y chromosome gene repertoires across the class Mammalia
+(Submitter supplied) We collected (Illumina) RNA-seq data (polyadenylated RNA fraction) for a number of tissue samples from common marmoset and elephant. We developed a subtraction approach based on male/female RNA-seq data, Illumina genomic data and available genomes to identify and assemble Y transcripts. For marmoset samples, we added Y coding genes and noncoding sequences to the reference genomes in order to assess their expression levels. more...
+Organism:	Notamacropus eugenii; Loxodonta africana; Callithrix jacchus; Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+6 related Platforms 31 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE50nnn/GSE50747/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA218629
+Series		Accession: GSE50747	ID: 200050747
+
+147. Genome-wide Transcriptional Profiling of Skin and Dorsal Root Ganglia after Ultraviolet-B-Induced Inflammation
+(Submitter supplied) Ultraviolet-B (UVB) irradiation of the skin was performed on rat (skin and DRG) and human (skin) tissue. The resulting changes in gene expression were then profiled by using RNA-seq to compare gene expression between irradiated and non-irradiated samples
+Organism:	Homo sapiens; Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL10669 GPL10999 33 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE54nnn/GSE54413/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA236460
+Series		Accession: GSE54413	ID: 200054413
+
+148. A rat RNA-Seq transcriptomic Bodymap across eleven organs and four developmental stages
+(Submitter supplied) The rat has been used extensively as a model for evaluating chemical toxicities and for understanding drug mechanisms. However, its transcriptome across multiple organs, or developmental stages, has not yet been reported. Here we show, as part of the SEQC consortium efforts, a comprehensive rat transcriptomic BodyMap created by performing RNASeq on 320 samples from 11 organs of both sexes of juvenile, adolescent, adult and aged Fischer 344 rats. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 320 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE53nnn/GSE53960/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA238328
+Series		Accession: GSE53960	ID: 200053960
+
+149. Next generation sequencing in ZS rats
+(Submitter supplied) Next generation sequencing in a rat model of diabetic nephropathy was employed to study in depth the pathogenic alterations involved in progressive diabetic kidney damage. We employed the obese, diabetic ZS rat, a model that develops renal failure and fibrosis, the hallmarks of human disease. We then used RNA-seq to examine in a comprehensive manner the combined effects of renal cells and infiltrating inflammatory cells acting as a pathophysiological unit.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14980 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE44nnn/GSE44375/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA219464
+Series		Accession: GSE44375	ID: 200044375
+
+150. Whole transcriptome profiling of rat pineal glands and retinas collected throughout a 24-hour cycle
+(Submitter supplied) The rat pineal transcriptome is highly dynamic, with many hundreds of transcripts changing more than two-fold on a 24-hr basis, as revealed earlier using Affymetrix GeneChip analysis. The retina is evolutionally related to the pineal gland so these two tissues share many gene expression patterns. This study more completely characterizes the temporally dynamic transcriptomes of these tissues using RNA-Seq to capture information regarding alternative splicing, novel exons, unannotated mRNAs, non-coding RNAs, and coding transcripts not represented on the Affymetrix chips. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 14 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE46nnn/GSE46069/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA197149
+Series		Accession: GSE46069	ID: 200046069
+
+151. Bile acid flux is necessary for normal liver regeneration
+(Submitter supplied) Bile acid return from the intestine and attendant signaling is necessary for liver regeneration after partial hepatectomy or CCl4 injury
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE54nnn/GSE54673/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA237324
+Series		Accession: GSE54673	ID: 200054673
+
+152. Characterization of genome-wide transcriptional changes in liver and adipose tissues of ZDF (fa/fa) rats fed R-α-lipoic acid by next-generation sequencing
+(Submitter supplied) We report on the characterization of lipogenic tissue transcriptional networks that support physiological responses of obese rats to a lipid-lowering bioactive food compound, R-a-lipoic acid (LA). Nine-week old male ZDF (fa/fa) rats were fed a chow diet supplemented with 3 g LA per kg diet or pair fed for two weeks. At the end of the trial, high-quality RNA was extracted from the liver and epididymal fat and subjected to transcriptome analysis using RNA-Seq technology. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL10287 16 Samples
+FTP download: GEO (TSV, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE50nnn/GSE50424/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA217502
+Series		Accession: GSE50424	ID: 200050424
+
+153. Whole genome transcription profiling of the L5 spinal nerve transection model of neuropathic pain in the rat, at different sequencing depths
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by array; Expression profiling by high throughput sequencing
+Platforms: GPL6194 GPL6543 GPL10669 30 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE53nnn/GSE53861/
+Series		Accession: GSE53861	ID: 200053861
+
+154. Whole genome transcription profiling of the L5 spinal nerve transection model of neuropathic pain in the rat, at different sequencing depths (RNA-Seq)
+(Submitter supplied) Poly(A) enriched RNA derived from the L5 DRG 7 days following L5-SNT and from naïve L5-DRG tissue was subjected to RNA-seq analysis at different sequencing depths
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL10669 18 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE53nnn/GSE53762/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA232819
+Series		Accession: GSE53762	ID: 200053762
+
+155. Subcellular RNA Sequencing Reveals Broad Presence of Cytoplasmic Intron-sequence Retaining Transcripts in Mouse and Rat Neurons.
+(Submitter supplied) Recent findings have revealed the complexity of the transcriptional landscape in mammalian cells. One recently described class of novel transcripts are the Cytoplasmic Intron-sequence Retaining Transcripts (CIRTs), hypothesized to confer post-transcriptional regulatory function. For instance, the neuronal CIRT KCNMA1i16 contributes to the firing properties of hippocampal neurons. We hypothesized that CIRTs may be present in a broad set of transcripts and comprise novel signals for post-transcriptional regulation. more...
+Organism:	Mus musculus; Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL9250 GPL13112 GPL10287 26 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE49nnn/GSE49592/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA214357
+Series		Accession: GSE49592	ID: 200049592
+
+156. Genome-wide analysis and comparison of E15 and adult rat lateral ventricular choroid plexus epithelial cells.
+(Submitter supplied) Transcriptome analysis of lateral ventricular choroid plexus epithelial cells of embryonic day 15 (E15) and adult control Sprague-Dawley rats.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE44nnn/GSE44072/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA188518
+Series		Accession: GSE44072	ID: 200044072
+
+157. Deep sequencing reveals increased DNA methylation in chronic rat epilepsy
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Rattus norvegicus
+Type:		Methylation profiling by high throughput sequencing; Expression profiling by high throughput sequencing
+Platform: GPL10669 23 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE50nnn/GSE50080/
+Series		Accession: GSE50080	ID: 200050080
+
+158. Deep sequencing reveals increased DNA methylation in chronic rat epilepsy (mRNA-seq)
+(Submitter supplied) Explore DNA methylation in chronic epilepsy and its relationship to gene expression.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL10669 9 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE50nnn/GSE50079/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA215950
+Series		Accession: GSE50079	ID: 200050079
+
+159. Maternal overnutrition causes insulin resistance and alters skeletal muscle oxidative phosphorylation in adult rat offspring
+(Submitter supplied) Maternal obesity can program metabolic syndrome in offspring but the mechanisms are not well characterized. Moreover, the consequences of maternal overnutrition in the absence of frank obesity remain poorly understood. This study aimed to determine the effects of maternal consumption of a high fat-sucrose diet on the skeletal muscle metabolic and transcriptional profiles of adult offspring. Female Sprague Dawley rats were fed either a diet rich in saturated fat and sucrose (HFD, 23.5% fat, 20% sucrose wt/wt) or a standard chow diet (NFD, 7% fat, 10% sucrose w/w) for the 3 weeks prior to mating and throughout pregnancy and lactation. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL10669 11 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE49nnn/GSE49797/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA214953
+Series		Accession: GSE49797	ID: 200049797
+
+160. Genome-wide analysis of the rat colon reveals site-specific differences in histone modifications and proto-oncogene expression
+(Submitter supplied) Goal: Since disease susceptibility of the intestine exhibits an anatomical bias, we propose that the chromatin landscape, especially the site-specific epigenetic differences in histone modification patterns throughout the longitudinal axis, contributes to a differential response to chemoprotective agents. Method: We assessed the chromatin structure associated with gene expression profiles in the rat proximal and distal colon by globally correlating chromatin immunoprecipitation next-generation sequencing analysis (ChIP-Seq) with mRNA transcription (RNA-Seq) data. more...
+Organism:	Rattus norvegicus
+Type:		Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by high throughput sequencing
+Platform: GPL14844 7 Samples
+FTP download: GEO (BEDGRAPH, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE49nnn/GSE49389/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA213881
+Series		Accession: GSE49389	ID: 200049389
+
+161. Novel long non-coding RNAs are involved in cellular response to angiotensin II signaling
+(Submitter supplied) Angiotensin II (AngII) is a polypeptide hormone that plays a pivotal role in the regulation of blood pressure. In vascular smooth muscle cells (VSMCs), AngII signaling results in hypertrophy, proliferation, contraction, and migration, which ultimately promote atherosclerosis and hypertensive cardiovascular diseases. Recent studies have shown that fundamental biological processes such as cell proliferation and differentiation are mediated in part by the activities of long non-protein-coding RNAs (lncRNAs). more...
+Organism:	Rattus norvegicus
+Type:		Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by high throughput sequencing
+Platforms: GPL14844 GPL10287 8 Samples
+FTP download: GEO (BED, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE38nnn/GSE38056/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA167134
+Series		Accession: GSE38056	ID: 200038056
+
+162. Transcriptome Sequencing of Gene Expression in the brain of HIV transgenic transgenic rat
+(Submitter supplied) Purpose: The study was designed to determine expression differences in brain regions of F344 and HIV-1 Transgenic rats by using RNA-sq analysis. Methods: 144 RNA samples (2 strains, 2 treatments, 3 regions, and 12 animals per group) were analyzed. Following deep-sequencing analysis of 50-bp paired-end reads of RNA-Seq, we used Bowtie/Tophat/Cufflinks suites to align these reads into transcripts based on the Rn4 rat reference genome and to measure the relative abundance of each transcript. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14844 144 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE47nnn/GSE47474/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA205832
+Series		Accession: GSE47474	ID: 200047474
+
+163. Whole-transcriptome analysis identifies re-expression of fetal splice variants in cardiac hypertrophy
+(Submitter supplied) Cardiac hypertrophy has been well-characterized at the level of transcription. During cardiac hypertrophy, genes normally expressed primarily during fetal heart development are re-expressed, and this fetal gene program is believed to be a critical component of the hypertrophic process. Recently, alternative splicing of mRNA transcripts has been shown to be temporally regulated during heart development, leading us to consider whether fetal patterns of splicing also reappear during hypertrophy.We hypothesized that patterns of alternative splicing occurring during heart development are recapitulated during cardiac hypertrophy. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL10669 9 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE42nnn/GSE42411/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA181346
+Series		Accession: GSE42411	ID: 200042411
+
+164. A Snapshot of the Hepatic Transcriptome: Ad Libitum Alcohol Intake Suppresses Expression of Cholesterol Synthesis Genes in Alcohol-Preferring (P) Rats
+(Submitter supplied) Introduction: Though heavy alcohol drinking has been well characterized as causing a variety of injuries, recent epidemiological evidence in humans suggests moderate consumption may provide beneficial effects. For example, there exists a J- or U-shaped relationship between the level of alcohol intake and cardiovascular disease risk. We investigated the underlying mechanisms of these positive consequences by identifying which genes are responsive to moderate alcohol intake in the liver, the primary site for alcohol metabolism. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL17116 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE46nnn/GSE46669/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA201443
+Series		Accession: GSE46669	ID: 200046669
+
+165. Activation of the chromatin-remodeling factor Smarca4/Brg1 cooperates with Olig2 to establish oligodendrocyte identity and control CNS myelination
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Mus musculus; Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing
+Platforms: GPL16312 GPL13112 19 Samples
+FTP download: GEO (BED) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE42nnn/GSE42454/
+Series		Accession: GSE42454	ID: 200042454
+
+166. Evolutionary dynamics of gene and isoform regulation in mammalian tissues
+(Submitter supplied) Most mammalian genes produce multiple distinct mRNAs through alternative splicing, but the extent of splicing conservation is not clear.  To assess tissue-specific transcriptome variation across mammals, we sequenced cDNA from 9 tissues from 4 mammals and one bird in biological triplicate, at unprecedented depth.  We find that while tissue-specific gene expression programs are largely conserved, alternative splicing is well conserved in only a subset of tissues and is frequently lineage-specific. more...
+Organism:	Gallus gallus; Bos taurus; Mus musculus; Rattus norvegicus; Macaca mulatta
+Type:		Expression profiling by high throughput sequencing
+7 related Platforms 134 Samples
+FTP download: GEO (GTF) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE41nnn/GSE41637/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA177791
+Series		Accession: GSE41637	ID: 200041637
+
+167. Rodent trophoblast epigenome
+(Submitter supplied) We characterized the trophoblast stem cell epigenome and gene expression profiles in rat and mouse.
+Organism:	Rattus norvegicus; Mus musculus
+Type:		Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing
+4 related Platforms 26 Samples
+FTP download: GEO (BED, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE42nnn/GSE42207/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA179294
+Series		Accession: GSE42207	ID: 200042207
+
+168. Neonatal and adult cardiomyocytes
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Rattus norvegicus; Human alphaherpesvirus 2; JC polyomavirus; Murid gammaherpesvirus 4; Mus musculus; Human gammaherpesvirus 4; Human immunodeficiency virus 1; Human gammaherpesvirus 8; Human polyomavirus 1; Human alphaherpesvirus 1; Human betaherpesvirus 5; Mus musculus cytomegalovirus 2; Macaca mulatta polyomavirus 1; Homo sapiens; Murid betaherpesvirus 1; Merkel cell polyomavirus
+Type:		Non-coding RNA profiling by array; Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing
+Platforms: GPL11434 GPL13112 17 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE41nnn/GSE41539/
+Series		Accession: GSE41539	ID: 200041539
+
+169. Whole transcriptome sequencing reveals dynamic RNA changes in the aging rat brain
+(Submitter supplied) Using RNA-seq, 9 cerebral cortex RNA samples were sequenced from 6 month (n=3, 6 individuals pooled), 12 month (n=3, 6 individuals pooled) and 28 month (n=3, 6 individuals pooled) rats. Allowing brain aging in the cerebral cortex to be assessed.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14980 9 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE34nnn/GSE34272/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA149963
+Series		Accession: GSE34272	ID: 200034272
+
+170. The effects on transcriptome from absence of Spt4/Supt4h by RNA-seq
+(Submitter supplied) We have done RNAseq analyses in yeast and in rat and mouse striatal neurons.  The experiments in yeast examine globally the physiological effects of spt4 deletion on the transcriptome.  The experiments in neurons examine the global effects of supt4 knockdown to a cellular level (i.e., 50% knockdown) that we have shown  prevents toxicity of variant Htt protein by interfering with transcription of extended CAG repeats. more...
+Organism:	Saccharomyces cerevisiae; Mus musculus; Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL13272 GPL13112 GPL14844 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE33nnn/GSE33497/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA148851
+Series		Accession: GSE33497	ID: 200033497
+
+171. Comparing next-generation sequencing and microarray technologies in a toxicological study of the effects of aristolochic Acid on rat kidneys
+(Submitter supplied) RNA-Seq has been increasingly used for the quantification and characterization of transcriptomes. The ongoing development of the technology promises the more accurate measurement of gene expression. However, its benefits over widely accepted microarray technologies have not been adequately assessed, especially in toxicogenomics studies. The goal of this study is to enhance the scientific community's understanding of the advantages and challenges of RNA-Seq in the quantification of gene expression by comparing analysis results from RNA-Seq and microarray data on a toxicogenomics study. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL10287 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE21nnn/GSE21210/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA126301
+Series		Accession: GSE21210	ID: 200021210
+
+172. Gene expression profiling reveals potential breast cancer prevention mechanisms associated with the rat Mcs5a allele (DGE)
+(Submitter supplied) Using global gene expression profiling in T-cells from untreated Mcs5a resistant and susceptible congenic rats, we asked if signatures of potential risk-decreasing mechanisms could be identified.
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL10287 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE33nnn/GSE33975/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA150511
+Series		Accession: GSE33975	ID: 200033975
+
+173. Digital gene expression and global mapping of polyadenylation sites with PolyA-Seq
+(Submitter supplied) We describe PolyA-Seq, a strand-specific method for high-throughput sequencing of the 3' ends of polyadenylated transcripts. PolyA-Seq is as accurate for digital gene expression as existing RNA sequencing approaches, and superior to microarrays. We used the approach to map polyadenylation (polyA) sites in 24 samples from normal tissues in human, rhesus, dog, mouse, and rat.
+Organism:	Homo sapiens; Canis lupus familiaris; Macaca mulatta; Mus musculus; Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+5 related Platforms 26 Samples
+FTP download: GEO (BED) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE30nnn/GSE30198/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA143955
+Series		Accession: GSE30198	ID: 200030198
+
+174. Identification of Neuronal RNA Targets of TDP-43-Containing Ribonucleoprotein Complexes
+(Submitter supplied) We identify the RNA targets of TAR DNA-binding protein 43 (TDP-43) from cortical neurons by RNA immunoprecipitation followed by deep sequencing (RIP-seq). We identify 4352 highly enriched RNA targets of TDP-43. We determined that the canonical TDP-43 binding site (TG)n was 55.1-fold enriched in our TDP-43 library. Moreover, our analysis shows there is often an adenine in the middle of the motif, (TG)nTA(TG)m. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL10669 2 Samples
+FTP download: GEO (BOWTIE, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE25nnn/GSE25032/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA134765
+Series		Accession: GSE25032	ID: 200025032
+
+175. mRNA-seq with Agnostic Splice Site Discovery for CNS Transcriptomics Tested in Chronic Pain
+(Submitter supplied) The study pursued dual goals: To advance mRNA-seq bioinformatics towards unbiased transcriptome capture and to demonstrate its potential for discovery in neuroscience by applying the approach to an in vivo model of neurological disease. We found that 12.4% of known genes were induced and 7% were suppressed in the dysfunctional (but anatomically intact) L4 dorsal root ganglion (DRG) 2 weeks after L5 spinal Nerve Ligation (SNL). more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL10287 24 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE20nnn/GSE20895/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA124389
+Series		Accession: GSE20895	ID: 200020895

@@ -1,0 +1,69 @@
+---
+title: "Converting CSE to SRX"
+author: "Lavrentiy"
+date: "March 27, 2017"
+output: html_document
+---
+
+## Library for working
+```{r library, echo=TRUE, message=FALSE, warning=TRUE}
+library(GEOmetadb)
+library(SRAdb)
+library(GEOquery)
+library(dplyr)
+```
+
+After this we need to load databases - *GEOdb* and *SRAdb*. В общем мы загружаем эти базы и прописываем проверку на наличие.
+```{r databases, message=TRUE, warning=TRUE, echo=TRUE}
+if(!file.exists('GEOmetadb.sqlite')) getSQLiteFile()
+con <- dbConnect(SQLite(),'GEOmetadb.sqlite')
+
+
+sqlfile <-'SRAmetadb.sqlite'
+if(!file.exists('SRAmetadb.sqlite')) sqlfile <<- getSRAdbFile()
+sra_con <- dbConnect(SQLite(),sqlfile)
+
+```
+
+После этого читаем наши файлы с gds
+```{r GEO files, message=FALSE, warning=TRUE, echo=TRUE}
+GEOids_homo <- read.csv("gse_result_homo.txt", head = F)
+GEOids_mus <- read.csv("gse_result_mus.txt", head = F)
+GEOids_rat <- read.csv("gse_result_rat", head = F)
+GEOids_homo <- as.data.frame(GEOids_homo)
+GEOids_rat <- as.data.frame(GEOids_rat)
+GEOids_mus <- as.data.frame(GEOids_mus)
+
+```
+
+```{r create gse_gsm table, message=FALSE, warning=TRUE, echo=TRUE}
+sra_tables <- dbListTables(sra_con)
+geo_tables <- dbListTables(con)
+
+db = src_sqlite('GEOmetadb.sqlite')
+gse = tbl(db,'gse_gsm')
+gse_gsm <- as.data.frame(gse)
+```
+
+После этого мы сравниваем и ищем пересечение каждой базы и делаем уникальные gsm
+```{r get unic gsm, message=FALSE, warning=TRUE, echo=TRUE}
+#human
+all_gsm_homo <- c(gse_gsm[gse_gsm$gse %in% GEOids_homo$V1, 2])
+uniq_gsm_homo <- unique(all_gsm_homo)
+
+#rat
+all_gsm_homo <- c(gse_gsm[gse_gsm$gse %in% GEOids_homo$V1, 2])
+uniq_gsm_homo <- unique(all_gsm_homo)
+
+#mouse
+all_gsm_homo <- c(gse_gsm[gse_gsm$gse %in% GEOids_homo$V1, 2])
+uniq_gsm_homo <- unique(all_gsm_homo)
+```
+
+
+Затем при помощи вот этой команды в chunke мы можем получить ссылку на ftp
+```{r get SRA, message=FALSE, warning=TRUE, echo=TRUE}
+
+list_SRP <- listSRAfile('SRS449420',sra_con) #get ftp
+```
+
