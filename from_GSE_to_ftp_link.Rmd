@@ -27,9 +27,9 @@ sra_con <- dbConnect(SQLite(),sqlfile)
 
 После этого читаем наши файлы с gds
 ```{r GEO files, message=FALSE, warning=TRUE, echo=TRUE}
-GEOids_homo <- read.csv("gse_result_homo.txt", head = F)
-GEOids_mus <- read.csv("gse_result_mus.txt", head = F)
-GEOids_rat <- read.csv("gse_result_rat", head = F)
+GEOids_homo <- read.csv("gse_homo.txt", head = F)
+GEOids_mus <- read.csv("gse_mus.txt", head = F)
+GEOids_rat <- read.csv("gse_rat.txt", head = F)
 GEOids_homo <- as.data.frame(GEOids_homo)
 GEOids_rat <- as.data.frame(GEOids_rat)
 GEOids_mus <- as.data.frame(GEOids_mus)
@@ -44,7 +44,7 @@ db = src_sqlite('GEOmetadb.sqlite')
 gse = tbl(db,'gse_gsm')
 gse_gsm <- as.data.frame(gse)
 ```
-
+omo
 После этого мы сравниваем и ищем пересечение каждой базы и делаем уникальные gsm
 ```{r get unic gsm, message=FALSE, warning=TRUE, echo=TRUE}
 #human
@@ -52,12 +52,12 @@ all_gsm_homo <- c(gse_gsm[gse_gsm$gse %in% GEOids_homo$V1, 2])
 uniq_gsm_homo <- unique(all_gsm_homo)
 
 #rat
-all_gsm_homo <- c(gse_gsm[gse_gsm$gse %in% GEOids_homo$V1, 2])
-uniq_gsm_homo <- unique(all_gsm_homo)
+all_gsm_rat <- c(gse_gsm[gse_gsm$gse %in% GEOids_rat$V1, 2])
+uniq_gsm_rat <- unique(all_gsm_rat)
 
 #mouse
-all_gsm_homo <- c(gse_gsm[gse_gsm$gse %in% GEOids_homo$V1, 2])
-uniq_gsm_homo <- unique(all_gsm_homo)
+all_gsm_mouse <- c(gse_gsm[gse_gsm$gse %in% GEOids_mus$V1, 2])
+uniq_gsm_mouse <- unique(all_gsm_mouse)
 ```
 
 
