@@ -61,7 +61,7 @@ def count_gene_tpm(tsv_file_path):
                 tsv_file_line = line.split()
                 transcript_id_from_tsv = tsv_file_line[0]
                 gene_id = convert_dict[transcript_id_from_tsv][0]
-                tpm = tsv_file_line[4]
+                tpm = tsv_file_line[3]
                 if gene_id in count_gene:
                     count_gene[gene_id] += float(tpm)
                 else:
